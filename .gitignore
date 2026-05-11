@@ -1,0 +1,73 @@
+# Local paper/review files
+*.pdf
+
+# Audio and generated media
+*.wav
+*.flac
+*.m4a
+*.mp3
+*.webm
+chunks/
+esc50_attention_test/
+comparison_outputs/
+Antwerp_park/
+ambisonics_*/
+ambisonics_audio/
+W_components/
+
+# Model checkpoints and large tensors
+*.pt
+*.pth
+*.ckpt
+*.mat
+
+# Generated result bundles and spreadsheet dumps
+*.zip
+results/*
+!results/
+!results/biooss_multimetric_pattern_change_results.json
+!results/biooss_multimetric_pattern_change_results_realtime.json
+!results/pattern_change_results.json
+!results/dataset_xd_cls_random.json
+results/TXT/
+results/TXT_threshold0.9/
+results/excel/
+results/excel_threshold0.9/
+Memory_model/results/
+Memory_model/results_iclr/
+Memory_model/chunks/
+Cognitive_enhance/results/
+
+# Non-core exploratory folders and legacy bilingual documentation
+Cognitive_enhance/
+memory_editing/
+eval_audio/
+assets/
+README_CN.md
+FAQ.md
+FAQ_zh.md
+TUTORIAL.md
+TUTORIAL_zh.md
+
+# Local exploratory scripts that are not part of the NAACA release entry points
+editing.py
+speech_recognition.py
+test*.py
+main.py
+requirements_web_demo.txt
+web_demo_audio.py
+batch_mel_spectrogram.sh
+
+# Python/cache/editor files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+
+# Temporary outputs
+temp_*
+R0056_last15s.wav
+R0056_reordered.wav
