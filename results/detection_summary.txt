@@ -1,0 +1,29 @@
+BioOSS Audio Change Detection Results
+========================================
+
+Total audio segments processed: 58
+Total changes detected: 3
+Average confidence: 0.038
+
+Detected Changes:
+--------------------
+ 1. Time:  38.00s (segment  38)
+ 2. Time:  42.00s (segment  42)
+ 3. Time:  47.00s (segment  47)
+
+Detailed Interpretations:
+-------------------------
+
+Change 1 at 38.00s:
+  Confidence: 0.400
+  Contributing factors:
+    - energy: 1.08x threshold
+
+Change 2 at 42.00s:
+  Confidence: 0.000
+  Contributing factors:
+
+Change 3 at 47.00s:
+  Confidence: 0.400
+  Contributing factors:
+    - energy: 1.11x threshold

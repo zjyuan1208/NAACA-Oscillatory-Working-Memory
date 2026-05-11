@@ -1,0 +1,38 @@
+Adaptive_ADWIN Adaptive Baseline Results
+==================================================
+
+Basic Statistics:
+Method: Adaptive_ADWIN
+Total detections: 0
+Total timesteps: 58
+Final detection rate: 0.0000
+Average detection rate: 0.0000
+Processing time: 0.02s
+
+Adaptation Statistics:
+Target detection rate: 0.0500
+Adaptation rate: 0.0200
+Total adaptations: 8
+Initial parameter: 0.002000
+Final parameter: 0.002737
+Parameter change ratio: 1.369
+
+Detector Parameters:
+feature_reduction: pca_first
+target_detection_rate: 0.05
+initial_delta: 0.002
+adaptation_rate: 0.02
+
+Detection Statistics:
+Average confidence: 0.4122
+Max confidence: 1.0000
+Min confidence: 0.0071
+Std confidence: 0.2952
+
+No changes detected.
+
+Debug Information:
+--------------------
+Confidence scores range: 0.0071 to 1.0000
+Parameter evolution range: 0.002000 to 0.002737
+Detection rate evolution: 0.0000 to 0.0000

@@ -1,0 +1,2002 @@
+[
+    {
+        "file_name": "Bad.Boys.1995__#01-11-55_01-12-40_label_G-B2-B6.wav",
+        "response": "This audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Bad.Boys.1995__#01-33-51_01-34-37_label_B2-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosions, and rioting/robbery."
+    },
+    {
+        "file_name": "Bad.Boys.II.2003__#00-06-42_00-10-00_label_B2-G-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, and accident."
+    },
+    {
+        "file_name": "Black.Hawk.Down.2001__#01-13-59_01-14-49_label_B2-0-0.wav",
+        "response": "This audio contains sounds of fighting, shooting, explosions, and screaming."
+    },
+    {
+        "file_name": "Black.Hawk.Down.2001__#01-32-40_01-34-00_label_B4-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, and accident."
+    },
+    {
+        "file_name": "Black.Hawk.Down.2001__#01-42-58_01-43-58_label_G-0-0.wav",
+        "response": "The audio contains sounds of explosions, footsteps, and radio communication, which may indicate violent events. The specific violent events detected in the audio are difficult to determine with certainty without further information, but the sounds of explosions and gunfire suggest possible combat or shooting incidents. The sound of footsteps and radio communication suggest that there may be a group of people involved in the events, and that there may be some level of organization or command structure present. It is important to note that the audio is short and incomplete, and may not provide a complete picture of the events that are occurring."
+    },
+    {
+        "file_name": "Black.Hawk.Down.2001__#02-00-12_02-01-29_label_B2-0-0.wav",
+        "response": "The audio contains gunshots, explosions, and people screaming, which could indicate violent events. The specific codes for these events are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Braveheart.1995__#00-56-30_00-57-20_label_B1-0-0.wav",
+        "response": "The audio contains someone screaming, a man shouting, and a gun shot. It sounds like a fight or a robbery may be taking place."
+    },
+    {
+        "file_name": "Braveheart.1995__#01-26-50_01-32-30_label_B1-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosions, and rioting/robbery. There is also screaming in the audio."
+    },
+    {
+        "file_name": "Braveheart.1995__#02-05-34_02-06-40_label_B1-0-0.wav",
+        "response": "The audio contains violent events, such as fighting, shooting, explosion, riot/robbery, and accident."
+    },
+    {
+        "file_name": "Braveheart.1995__#02-07-00_02-08-15_label_B1-0-0.wav",
+        "response": "The audio contains someone screaming and running, which could indicate a violent event such as a fight or a robbery. There are also sounds of horses galloping and a sword being drawn, which could suggest a chase or a battle. There are also gunshots and explosions, which could indicate a shooting or an explosion. It is important to note that this audio is a recording of a movie soundtrack and may not necessarily represent an actual violent event."
+    },
+    {
+        "file_name": "Brick.Mansions.2014__#00-11-57_00-12-12_label_B2-0-0.wav",
+        "response": "This is a recording of a conversation between two men in a dark room. One of the men says, \"I need some good ideas,\" and the other man responds, \"What about you, Smalley? Any ideas?\" The first man then says, \"No sir,\" and there is a loud thud followed by a door slamming shut. It sounds like there may be some kind of disturbance or altercation taking place in the room."
+    },
+    {
+        "file_name": "Brick.Mansions.2014__#00-16-26_00-17-12_label_B1-0-0.wav",
+        "response": "The audio contains sounds that may indicate violent events, such as fighting, shooting, explosions, and rioting. It is not possible for me to accurately identify the specific nature of the events without further information."
+    },
+    {
+        "file_name": "Brick.Mansions.2014__#00-41-25_00-42-36_label_B1-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Brick.Mansions.2014__#01-02-00_01-02-43_label_B2-0-0.wav",
+        "response": "The audio is of a movie soundtrack with violent events. The soundtrack includes a drum beat, orchestral instruments, and gunshots. There is also a scream and an explosion."
+    },
+    {
+        "file_name": "Bullet.in.the.Head.1990__#00-17-20_00-18-55_label_B1-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosions, and screaming. It sounds like a violent event is taking place."
+    },
+    {
+        "file_name": "Bullet.in.the.Head.1990__#00-23-31_00-24-40_label_G-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Bullet.in.the.Head.1990__#00-41-30_00-44-16_label_B4-G-0.wav",
+        "response": "The audio contains people shouting and chanting. It sounds like a protest or demonstration."
+    },
+    {
+        "file_name": "Bullet.in.the.Head.1990__#01-26-30_01-27-34_label_B2-0-0.wav",
+        "response": "The audio contains someone screaming and some faint gunshots. It also contains a choir singing and a orchestra playing. It sounds like a movie soundtrack."
+    },
+    {
+        "file_name": "Bullet.in.the.Head.1990__#01-45-21_01-46-20_label_B2-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Bullet.in.the.Head.1990__#02-02-00_02-05-22_label_B2-B6-G.wav",
+        "response": "This is a recording of a street fight. There is a man screaming and fighting with another man. There is also the sound of sirens in the background. There are no other violent events detected in the audio."
+    },
+    {
+        "file_name": "Casino.Royale.2006__#00-18-30_00-19-20_label_G-B2-0.wav",
+        "response": "The audio contains sounds of gunshots, explosions, people screaming, and footsteps. It sounds like a violent event is taking place."
+    },
+    {
+        "file_name": "Casino.Royale.2006__#00-50-05_00-51-16_label_B1-B2-B6.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, screaming."
+    },
+    {
+        "file_name": "Casino.Royale.2006__#00-51-16_00-52-41_label_B1-B6-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosions, rioting/robbery, accidents, and screaming."
+    },
+    {
+        "file_name": "Casino.Royale.2006__#01-17-29_01-17-46_label_B1-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Casino.Royale.2006__#01-46-40_01-47-14_label_B6-0-0.wav",
+        "response": "The audio contains sounds of car accidents, gunshots, explosions, and screaming."
+    },
+    {
+        "file_name": "City.Of.Men.2007__#00-51-50_00-53-31_label_B2-0-0.wav",
+        "response": "This is a recording of a violent event. There is gunshots, explosions, and screaming. It sounds like a war or a riot."
+    },
+    {
+        "file_name": "City.Of.Men.2007__#00-57-37_00-58-27_label_B2-0-0.wav",
+        "response": "There are violent events detected in the audio: B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident."
+    },
+    {
+        "file_name": "City.Of.Men.2007__#01-17-27_01-17-59_label_B2-0-0.wav",
+        "response": "There are violent events in this audio. The codes are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "City.Of.Men.2007__#01-35-30_01-36-00_label_B2-0-0.wav",
+        "response": "There are violent events detected in the audio. The codes are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "City.of.God.2002__#00-37-20_00-38-02_label_B5-0-0.wav",
+        "response": "The audio does not contain any violent events."
+    },
+    {
+        "file_name": "City.of.God.2002__#00-40-16_00-41-30_label_B2-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, and accident."
+    },
+    {
+        "file_name": "City.of.God.2002__#01-24-10_01-25-10_label_B2-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "City.of.God.2002__#01-52-20_01-54-32_label_B2-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosions, rioting/robbery, accidents, and screaming."
+    },
+    {
+        "file_name": "Crank.Dircut.2006__#0-27-42_0-29-01_label_B1-0-0.wav",
+        "response": "This audio contains the following violent events: \n\nB1: Fighting \nB2: Shooting \nB4: Explosion \nB5: Riot/Robbery \nB6: Accident"
+    },
+    {
+        "file_name": "Deadpool.2.2018__#0-04-46_0-05-01_label_B2-0-0.wav",
+        "response": "The lyrics are \"We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in there now  We're not going in there now  Do not go in"
+    },
+    {
+        "file_name": "Deadpool.2.2018__#0-50-30_0-51-20_label_B1-0-0.wav",
+        "response": "There are violent events detected in the audio. The codes are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Deadpool.2.2018__#01-03-09_01-03-54_label_B4-0-0.wav",
+        "response": "There are violent events detected in the audio: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "Deadpool.2016__#0-18-58_0-19-20_label_B1-0-0.wav",
+        "response": "The audio contains people talking, footsteps, door slamming, and sounds of violence. It sounds like a fight or a robbery may be taking place."
+    },
+    {
+        "file_name": "Death.Proof.2007__#00-45-05_00-47-36_label_B5-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "Death.Proof.2007__#01-40-41_01-42-17_label_B5-B6-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, and explosions."
+    },
+    {
+        "file_name": "Desperado.1995__#00-16-48_00-18-52_label_B1-0-0.wav",
+        "response": "The audio contains people fighting, which could be interpreted as violent events."
+    },
+    {
+        "file_name": "Desperado.1995__#00-38-36_00-39-21_label_B1-B2-0.wav",
+        "response": "This audio contains the following violent events: \n\nB1: Fighting \nB2: Shooting \nB4: Explosion \nB5: Riot/Robbery \nB6: Accident"
+    },
+    {
+        "file_name": "Desperado.1995__#01-14-11_01-17-28_label_B2-G-0.wav",
+        "response": "No violent events were detected in the audio."
+    },
+    {
+        "file_name": "Election.2005__#00-47-57_00-50-54_label_B5-0-0.wav",
+        "response": "Based on the voice, it sounds like there is someone fighting and possibly shooting. There may also be an explosion and/or rioting/robbery. There is also screaming in the background."
+    },
+    {
+        "file_name": "Fast.Five.2011__#00-01-41_00-01-57_label_B6-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Fast.Five.2011__#00-32-05_00-32-24_label_B1-B2-0.wav",
+        "response": "This is a low quality recording of a violent video game. There is a fast paced instrumental playing in the background with various gunshots, explosions, and other violent sounds. There are also screams and groans coming from the characters. This recording may be used in a video game to create a sense of danger and excitement."
+    },
+    {
+        "file_name": "Fast.Five.2011__#00-32-56_00-33-26_label_B2-0-0.wav",
+        "response": "The audio is of a fight between two people. Gunshots and explosions can be heard, as well as screams. It is not clear if there are any violent events in the audio."
+    },
+    {
+        "file_name": "Fast.Five.2011__#01-29-27_01-32-05_label_B1-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming. The specific violent events that are detected are fighting and shooting."
+    },
+    {
+        "file_name": "Fast.Furious.2009__#00-21-06_00-21-57_label_B6-B2-0.wav",
+        "response": "The audio is of a trailer for a movie. There are various sounds of vehicles, explosions, and crashes. There is also a string section playing a tense and ominous melody. The trailer ends with a loud crash and a scream."
+    },
+    {
+        "file_name": "Fast.Furious.2009__#00-25-59_00-26-25_label_B1-0-0.wav",
+        "response": "This is a recording of a man speaking, in a English, saying, \"David, Green for Torino.\".  It sounds like there may be some violence or danger in the situation, as the man is speaking quickly and frantically, and there are sounds of breaking glass and screaming in the background. There may also be some shooting or explosions, as the man mentions \"Green for Torino\" which could be a reference to a military unit or police force. It is important to note that this is just a recording and it is not possible to determine the exact situation or context without further information."
+    },
+    {
+        "file_name": "Fast.Furious.2009__#00-42-10_00-42-41_label_B6-0-0.wav",
+        "response": "This audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "Fast.Furious.2009__#01-18-00_01-19-00_label_B2-B6-0.wav",
+        "response": "The audio is of a fight scene with gunshots, explosions, and screams. The violent events in the audio are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Fast.Furious.2009__#01-29-10_01-29-55_label_B2-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident."
+    },
+    {
+        "file_name": "Fast.Furious.6.2013__#00-45-40_00-47-13_label_B2-0-0.wav",
+        "response": "The audio contains sounds of gunshots, explosions, and running footsteps, which suggest violent events are occurring. The specific violent events that are occurring are not specified in the audio."
+    },
+    {
+        "file_name": "Fast.Furious.6.2013__#01-03-25_01-04-59_label_B1-0-0.wav",
+        "response": "Based on the audio, it sounds like a fight or chase scene is taking place. There are sounds of footsteps, grunts, and screams, as well as the sound of doors being opened and closed. There are also gunshots and explosions, which suggest that there may be violence involved. It is difficult to determine the specific nature of the event without more information."
+    },
+    {
+        "file_name": "Fast.Furious.6.2013__#01-38-33_01-39-20_label_B1-0-0.wav",
+        "response": "The audio is of a fight scene with people screaming, and gunshots can be heard. There is also the sound of footsteps and a violin playing in the background. It is unclear if there are any other sounds present."
+    },
+    {
+        "file_name": "Fury.2014__#00-07-30_00-07-58_label_G-0-0.wav",
+        "response": "The audio contains a conversation, a car door closing, a man speaking, a gun shot, a car crash, a car door opening, and someone screaming. It sounds like a scene from a movie or video game."
+    },
+    {
+        "file_name": "Fury.2014__#00-39-36_00-40-44_label_B1-B2-0.wav",
+        "response": "This audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Gladiator.2000__#01-10-27_01-11-59_label_B1-0-0.wav",
+        "response": "The audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "God.Bless.America.2011__#00-12-40_00-13-12_label_B2-0-0.wav",
+        "response": "Based on the voice, it sounds like there is a violent event occurring, possibly a shooting or a fight, followed by screaming and glass breaking. There may also be background conversations and music playing."
+    },
+    {
+        "file_name": "God.Bless.America.2011__#00-38-25_00-39-37_label_B2-B5-0.wav",
+        "response": "The audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "God.Bless.America.2011__#01-32-00_01-32-50_label_B2-0-0.wav",
+        "response": "There are violent events detected in the audio. The B1 code indicates fighting, B2 indicates shooting, B4 indicates explosion, B5 indicates riot/robbery, B6 indicates accident, and G indicates screaming."
+    },
+    {
+        "file_name": "GoldenEye.1995__#00-10-00_00-10-40_label_G-0-0.wav",
+        "response": "This audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "GoldenEye.1995__#00-24-53_00-25-06_label_B1-0-0.wav",
+        "response": "This is a recording of a video game. There is a fight scene taking place, with various sounds of people hitting and falling to the ground. There are also some explosions and screams. It sounds like a violent and intense scene."
+    },
+    {
+        "file_name": "GoldenEye.1995__#01-17-05_01-19-57_label_B2-B1-0.wav",
+        "response": "The audio contains sounds of gunshots, explosions, and people screaming, which suggest violent events. The specific codes for these events are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "GoldenEye.1995__#02-02-15_02-02-47_label_B1-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "GoldenEye.1995__#02-03-40_02-04-13_label_G-0-0.wav",
+        "response": "The audio contains sounds of explosions, shouting, and the sound of a crowd running. It is possible that this audio is from a violent event such as a riot, shooting, or explosion."
+    },
+    {
+        "file_name": "Haywire.2011__#00-03-51_00-05-12_label_B1-B2-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, and screaming."
+    },
+    {
+        "file_name": "Haywire.2011__#00-16-07_00-16-49_label_B1-0-0.wav",
+        "response": "This audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Haywire.2011__#00-39-07_00-41-48_label_B1-B2-0.wav",
+        "response": "The audio contains someone grunting and struggling, possibly in a fight or struggle."
+    },
+    {
+        "file_name": "Haywire.2011__#01-20-20_01-21-57_label_B1-0-0.wav",
+        "response": "The audio contains natural sounds of waves and birds, so there are no violent events detected in this audio."
+    },
+    {
+        "file_name": "IP.Man.2.2010__#00-07-14_00-09-13_label_B1-0-0.wav",
+        "response": "Based on the audio, it sounds like there may be violent events occurring, including fighting, shooting, and explosions. There is also screaming in the background. It is difficult to determine the specific nature of the violence without further information."
+    },
+    {
+        "file_name": "IP.Man.2.2010__#01-35-55_01-39-11_label_B1-0-0.wav",
+        "response": "Based on the voice, it sounds like there is a fight taking place. There is also a sound of a gunshots, which indicates that there may be shooting involved. There is also a sound of explosions, which could indicate that there is an explosion or bomb detonation. There is also a sound of people screaming, which could indicate that there is a riot or robbery taking place. It is important to note that this is a recording of a fight and there may be violence and danger present, so caution is needed."
+    },
+    {
+        "file_name": "Ip.Man.2008__#00-46-51_00-47-30_label_B1-0-0.wav",
+        "response": "The audio contains fighting, shooting, explosion, riot/robbery, accident, and screaming sounds."
+    },
+    {
+        "file_name": "Ip.Man.2008__#00-48-57_00-50-47_label_B1-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming. The codes for these events are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Ip.Man.2008__#01-14-31_01-15-24_label_B1-0-0.wav",
+        "response": "The audio contains sounds of people fighting and shooting. There are also explosions and screams. It sounds like a violent event is taking place."
+    },
+    {
+        "file_name": "Ip.Man.2008__#01-40-37_01-42-07_label_B4-0-0.wav",
+        "response": "The violent event detected in the audio is a shooting. The specific codes are B2:Shooting."
+    },
+    {
+        "file_name": "Ip.Man.3.2015__#00-17-51_00-18-51_label_B1-0-0.wav",
+        "response": "There are violent events in the audio. The possible codes are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Ip.Man.3.2015__#00-44-45_00-45-08_label_B1-0-0.wav",
+        "response": "There are no violent events in this audio."
+    },
+    {
+        "file_name": "Ip.Man.3.2015__#00-46-08_00-54-20_label_B1-0-0.wav",
+        "response": "Based on the voice, it sounds like there is a fight or battle taking place. There are sounds of combat, such as screaming and gunshots, as well as explosions. It is possible that there is also rioting or robbery taking place based on the mention of \"chiefs\" and \"commanders\". It is important to note that this is based on the audio alone and further information may be necessary to determine the exact nature of the event."
+    },
+    {
+        "file_name": "Jason.Bourne.2016__#0-17-25_0-18-53_label_B4-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Jason.Bourne.2016__#0-29-48_0-30-29_label_B4-0-0.wav",
+        "response": "This audio contains the following violent events: \n\nB1: Fighting \nB2: Shooting \nB4: Explosion \nB5: Riot/Robbery \nB6: Accident"
+    },
+    {
+        "file_name": "Jason.Bourne.2016__#0-50-20_0-50-30_label_G-0-0.wav",
+        "response": "This audio contains a car crash, followed by a woman screaming and a car horn blaring. There are also gunshots and explosions. This could be a scene from a movie or a real-life incident."
+    },
+    {
+        "file_name": "Kill.Bill.Vol.1.2003__#01-17-20_01-20-20_label_B1-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Kill.Bill.Vol.1.2003__#01-21-39_01-26-55_label_B1-0-0.wav",
+        "response": "There is a fight, shooting, explosion, riot/robbery, accident, and screaming in this audio."
+    },
+    {
+        "file_name": "Kill.Bill.Vol.1.2003__#01-26-56_01-28-18_label_B1-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Kill.Bill.Vol.2.2004__#0-25-20_0-26-20_label_B2-0-0.wav",
+        "response": "This audio contains no violent events."
+    },
+    {
+        "file_name": "Kingsman.The.Golden.Circle.2017__#00-35-55_00-36-35_label_B1-0-0.wav",
+        "response": "This audio contains elements of violent events: B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Kingsman.The.Golden.Circle.2017__#00-41-22_00-41-32_label_B2-0-0.wav",
+        "response": "The audio contains a violent event, which may be a shooting or explosion. There is a loud bang and a scream, followed by a loud explosion. There is also music playing in the background."
+    },
+    {
+        "file_name": "Kingsman.The.Secret.Service.2014__#00-22-10_00-23-10_label_B2-0-0.wav",
+        "response": "The audio contains sounds that may indicate violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming. Therefore, the output for this audio would be [B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming]."
+    },
+    {
+        "file_name": "Kingsman.The.Secret.Service.2014__#01-43-40_01-44-50_label_B2-G-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming. The specific violent events detected are fighting, shooting, and explosion."
+    },
+    {
+        "file_name": "Law.Abiding.Citizen.2009__#01-26-34_01-27-25_label_B2-0-0.wav",
+        "response": "The audio contains elements that suggest violent events are taking place, including gunshots, explosions, and screams. The specific codes for these events are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Lord.of.War__#00-50-10_00-50-50_label_G-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosion, riot/robbery, accident, and screaming. Therefore, the output is [B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming]."
+    },
+    {
+        "file_name": "Lord.of.War__#01-41-04_01-41-53_label_B1-0-0.wav",
+        "response": "There are violent events detected in the audio: B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Love.Death.and.Robots.S01E10__#0-01-00_0-02-13_label_B2-G-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Love.Death.and.Robots.S01E13__#0-11-48_0-12-07_label_G-0-0.wav",
+        "response": "The audio contains sounds of explosions, gunshots, and footsteps. It also contains screams. It is likely that this is a violent event such as a fight, shooting, or explosion."
+    },
+    {
+        "file_name": "Love.Death.and.Robots.S01E15__#0-05-38_0-06-18_label_G-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Mindhunters.2004__#01-19-00_01-20-05_label_B2-0-0.wav",
+        "response": "The audio is of a fight with weapons and explosions."
+    },
+    {
+        "file_name": "Mission.Impossible.Fallout.2018__#00-31-21_00-32-50_label_B1-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.Fallout.2018__#00-39-18_00-40-36_label_B1-0-0.wav",
+        "response": "The audio is of a man speaking followed by a violent event where there is fighting, shooting, explosions, and screams."
+    },
+    {
+        "file_name": "Mission.Impossible.Fallout.2018__#02-03-50_02-04-35_label_B1-0-0.wav",
+        "response": "The audio contains someone screaming and fighting sounds. It also contains gunshots and explosions. It sounds like a violent event is taking place."
+    },
+    {
+        "file_name": "Mission.Impossible.Ghost.Protocol.2011__#00-01-18_00-01-40_label_B2-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosion, rioting, and screaming. It is not clear what is happening in the audio."
+    },
+    {
+        "file_name": "Mission.Impossible.Ghost.Protocol.2011__#01-12-38_01-13-43_label_B1-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.Ghost.Protocol.2011__#01-54-24_01-54-50_label_B1-0-0.wav",
+        "response": "The song is a video game soundtrack. There are people screaming and fighting. There are also gunshots and explosions."
+    },
+    {
+        "file_name": "Mission.Impossible.Ghost.Protocol.2011__#01-56-52_01-57-03_label_B1-0-0.wav",
+        "response": "This audio contains a man speaking and several impacts, gunshots, explosions, and screams. It sounds like a fight or a robbery."
+    },
+    {
+        "file_name": "Mission.Impossible.II.2000__#01-18-55_01-20-53_label_B2-0-0.wav",
+        "response": "The audio is of a performance by a rock band. It contains violent sounds such as gunshots, explosions, and screams. It is possible that there was a violent event taking place during the performance."
+    },
+    {
+        "file_name": "Mission.Impossible.II.2000__#01-25-08_01-25-31_label_B2-0-0.wav",
+        "response": "This audio contains violent events."
+    },
+    {
+        "file_name": "Mission.Impossible.II.2000__#01-29-30_01-29-44_label_B1-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.II.2000__#01-32-56_01-33-25_label_B1-0-0.wav",
+        "response": "The audio contains elements that suggest violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.II.2000__#01-38-25_01-38-41_label_B2-B5-0.wav",
+        "response": "This is a recording of a fight scene. There is a man screaming and another man shouting. There is also the sound of a gun being fired and an explosion. It sounds like a violent event is taking place."
+    },
+    {
+        "file_name": "Mission.Impossible.II.2000__#01-46-20_01-47-11_label_B2-B6-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosions, rioting/robbery, accidents, and screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.III.2006__#00-19-56_00-20-26_label_B2-0-0.wav",
+        "response": "The audio is a short musical piece with sound effects of breaking glass and metal objects. It is likely being used in a comedic or satirical context, such as a skit or cartoon."
+    },
+    {
+        "file_name": "Mission.Impossible.III.2006__#00-56-23_00-56-40_label_G-0-0.wav",
+        "response": "This is a clip from a movie or video game. There is a man speaking and then a car explodes. There is also music playing in the background. There is no violence in this clip."
+    },
+    {
+        "file_name": "Mission.Impossible.III.2006__#01-06-52_01-07-15_label_G-0-0.wav",
+        "response": "The audio contains a fight, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.III.2006__#01-54-02_01-54-40_label_B2-0-0.wav",
+        "response": "The audio contains sounds of a fight, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.V.Rogue.Nation.2015__#00-14-40_00-17-12_label_B1-0-0.wav",
+        "response": "This audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.V.Rogue.Nation.2015__#00-17-27_00-17-55_label_B2-0-0.wav",
+        "response": "The audio is of a movie soundtrack, with various elements such as orchestral instruments, gunshots, explosions, and screams. It is difficult to determine the specific violent events that are occurring without further context. However, it is clear that there is a sense of urgency and danger in the soundtrack, as indicated by the use of orchestral instruments and sound effects."
+    },
+    {
+        "file_name": "Mission.Impossible.V.Rogue.Nation.2015__#01-15-52_01-16-48_label_B6-B2-0.wav",
+        "response": "This audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.V.Rogue.Nation.2015__#01-19-48_01-20-20_label_B6-0-0.wav",
+        "response": "There are violent events detected in the audio, including fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Mission.Impossible.V.Rogue.Nation.2015__#01-54-23_01-55-10_label_B2-0-0.wav",
+        "response": "The audio contains the sound of a person breathing heavily, footsteps, and a loud explosion. It sounds like a combat situation or a training exercise."
+    },
+    {
+        "file_name": "New.Kids.Turbo.2010__#00-22-35_00-23-14_label_B1-0-0.wav",
+        "response": "This audio contains violent events: B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "New.Kids.Turbo.2010__#00-50-13_00-50-34_label_B1-0-0.wav",
+        "response": "The song is a short cinematic action loop."
+    },
+    {
+        "file_name": "Operation.Red.Sea.2018__#0-02-17_0-02-37_label_B2-0-0.wav",
+        "response": "This is a clip from a video game. There is a man speaking in the background, and the music is playing in the background. There are sounds of explosions, breaking glass, and gunshots. It sounds like a violent event is taking place."
+    },
+    {
+        "file_name": "Operation.Red.Sea.2018__#0-16-06_0-16-46_label_G-0-0.wav",
+        "response": "Based on the voice, it sounds like there is someone screaming. There are also sounds of explosions and gunfire in the background. It is possible that there is a violent event occurring, such as a riot or robbery. It is important to note that this is just a suggestion and further investigation is needed to confirm the nature of the event."
+    },
+    {
+        "file_name": "Operation.Red.Sea.2018__#0-25-36_0-26-03_label_G-0-0.wav",
+        "response": "This audio contains sounds of a fight, gunshots, explosions, screams, and a car crash. It may be an emergency situation or a movie scene."
+    },
+    {
+        "file_name": "Operation.Red.Sea.2018__#0-29-36_0-30-20_label_B2-G-0.wav",
+        "response": "The audio contains elements that suggest violent events are taking place, including fighting, shooting, explosions, and rioting/robbery. There is also screaming in the audio. It is possible that these events are taking place in a movie, video game, or other fictional setting, or that they are real-life events that are being depicted in the audio."
+    },
+    {
+        "file_name": "Operation.Red.Sea.2018__#0-56-26_0-57-10_label_G-0-0.wav",
+        "response": "This is a recording of a fight scene with gunshots, explosions, and screams. The location sounds like a war zone or a battlefield. There are multiple people fighting and shooting at each other. There are also explosions and the sound of gunfire. It sounds like a chaotic and violent scene."
+    },
+    {
+        "file_name": "Operation.Red.Sea.2018__#01-20-58_01-22-00_label_B5-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "Operation.Red.Sea.2018__#01-37-22_01-37-36_label_G-B2-0.wav",
+        "response": "The audio contains gunshots, explosions, and screams. It also contains footsteps and a man speaking. It sounds like a fight or a robbery is taking place."
+    },
+    {
+        "file_name": "Quantum.Of.Solace.2008__#01-19-30_01-20-05_label_B1-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Quantum.Of.Solace.2008__#01-30-26_01-30-42_label_B2-B1-0.wav",
+        "response": "This is a song whose genre is Electronic, and the lyrics are \"Yeah yeah yeah yeah yeah yeah\"."
+    },
+    {
+        "file_name": "Rush.Hour.1998.BluRay__#00-08-08_00-09-15_label_B2-B6-G.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosions, and rioting/robbery."
+    },
+    {
+        "file_name": "Rush.Hour.1998.BluRay__#00-11-05_00-12-10_label_B2-B1-0.wav",
+        "response": "The audio contains elements of violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming. Therefore, the output would be ['Fighting', 'Shooting', 'Explosion', 'Riot/Robbery', 'Accident', 'Screaming']."
+    },
+    {
+        "file_name": "Rush.Hour.1998.BluRay__#01-20-28_01-21-38_label_B2-0-0.wav",
+        "response": "The audio is of a man speaking in a foreign language and a woman speaking in English, and then a loud explosion is heard. It is unclear what is happening in the context of the audio."
+    },
+    {
+        "file_name": "Rush.Hour.1998.BluRay__#01-25-21_01-25-46_label_B2-0-0.wav",
+        "response": "The audio contains a woman speaking, followed by a man speaking, and then a loud explosion. There is also music playing in the background. It sounds like a movie scene."
+    },
+    {
+        "file_name": "Rush.Hour.3.2007.BluRay__#00-04-59_00-05-31_label_B2-0-0.wav",
+        "response": "Based on the voice, it sounds like a fight or altercation has taken place, followed by gunshots, an explosion, and screaming. It is not safe for anyone to be in this room."
+    },
+    {
+        "file_name": "Rush.Hour.3.2007.BluRay__#00-34-11_00-35-46_label_B1-0-0.wav",
+        "response": "The audio contains elements of violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming. Therefore, the output is ['B1:Fighting', 'B2:Shooting', 'B4:Explosion', 'B5:Riot/Robbery', 'B6:Accident', 'G:Screaming']."
+    },
+    {
+        "file_name": "Rush.Hour.3.2007.BluRay__#00-40-56_00-41-52_label_B2-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosion, rioting, and screaming. Therefore, the output for this audio would be: [B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident]."
+    },
+    {
+        "file_name": "Rush.Hour.3.2007.BluRay__#01-12-16_01-12-36_label_B1-0-0.wav",
+        "response": "This is a video game recording of a fight scene. There are several male voices shouting and screaming in the background. There are also loud impacts and thuds as characters collide with each other. There is a violent atmosphere to the scene."
+    },
+    {
+        "file_name": "Salt.2010__#00-17-40_00-18-16_label_B1-0-0.wav",
+        "response": "Based on the audio, it sounds like a violent event is occurring. There is fighting, shooting, explosions, and screams. It is not safe for anyone to be in this area."
+    },
+    {
+        "file_name": "Salt.2010__#01-06-27_01-07-07_label_G-B2-0.wav",
+        "response": "This audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Salt.2010__#01-12-05_01-12-32_label_B2-G-0.wav",
+        "response": "The audio is of a man speaking, with gunshots and explosions in the background. There is also a woman screaming. It sounds like a fight or a robbery is taking place."
+    },
+    {
+        "file_name": "Saving.Private.Ryan.1998__#00-47-50_00-49-35_label_B2-0-0.wav",
+        "response": "The audio is of a man speaking, with gunshots and explosions in the background. It is difficult to determine the exact nature of the event based on the audio alone, but it sounds like a violent situation is occurring. The codes that could be associated with this audio are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Saving.Private.Ryan.1998__#02-16-58_02-17-13_label_G-0-0.wav",
+        "response": "The audio contains someone screaming, gunshots, explosions, and footsteps. It sounds like a violent event is occurring."
+    },
+    {
+        "file_name": "Saving.Private.Ryan.1998__#02-20-00_02-20-13_label_G-0-0.wav",
+        "response": "This is a recording of a battle scene. There is a man shouting \"Hey! Punk get outta here!\" followed by an explosion and a man screaming. There is also the sound of metal creaking and breaking. It sounds like a fight or a robbery."
+    },
+    {
+        "file_name": "Saving.Private.Ryan.1998__#02-23-00_02-23-28_label_B1-0-0.wav",
+        "response": "There is a fight, shooting, explosion, riot/robbery, and screaming in this audio."
+    },
+    {
+        "file_name": "Saving.Private.Ryan.1998__#02-23-58_02-24-18_label_G-0-0.wav",
+        "response": "The audio contains violent events. B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Saving.Private.Ryan.1998__#02-24-18_02-25-42_label_B1-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, and explosions."
+    },
+    {
+        "file_name": "Saving.Private.Ryan.1998__#02-25-42_02-26-03_label_B2-0-0.wav",
+        "response": "The audio is of a fight scene with gunshots and explosions."
+    },
+    {
+        "file_name": "Shoot.Em.Up.2007__#00-32-40_00-35-10_label_B2-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Shoot.Em.Up.2007__#00-53-25_00-56-47_label_B2-0-0.wav",
+        "response": "This audio contains the following violent events: \n\nB1: Fighting - There is a fight taking place in the audio."
+    },
+    {
+        "file_name": "Shoot.Em.Up.2007__#00-56-56_00-57-15_label_B2-0-0.wav",
+        "response": "The audio contains a violent event of shooting and explosions. It also contains screams and metal hits. It is most likely a video game or a movie scene."
+    },
+    {
+        "file_name": "Sin.City.2005__#0-06-42_0-07-06_label_B1-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Sin.City.2005__#0-10-40_0-11-40_label_B2-0-0.wav",
+        "response": "The audio is of a fight scene with gunshots and explosions. It sounds violent."
+    },
+    {
+        "file_name": "Sin.City.2005__#0-22-04_0-22-18_label_B5-0-0.wav",
+        "response": "The audio contains violent events: a fight, a shooting, an explosion, a riot/robbery, an accident, and screaming."
+    },
+    {
+        "file_name": "Sin.City.2005__#0-29-34_0-29-56_label_B2-0-0.wav",
+        "response": "This is a speech. In the speech, a woman says, \"No! Don't shoot! Please listen to me, I'm his parole officer. He's unconscious and unarmed. So there's no need to kill him.\" There are no violent events in the audio."
+    },
+    {
+        "file_name": "Sin.City.2005__#0-32-00_0-32-16_label_B2-0-0.wav",
+        "response": "This is a song whose genre is Animation, and the lyrics are \"You can't be goldie, Goldie's dead\"."
+    },
+    {
+        "file_name": "Sin.City.2005__#0-43-45_0-44-01_label_B2-0-0.wav",
+        "response": "This is a recording of a man speaking in a low, angry voice. There is the sound of gunshots and explosions in the background. The man says, \"Oh man, oh man, oh man. They should have shot me in the head. In enough times to make sure.\" There is also the sound of a siren in the distance. This recording may be used in a movie or video game."
+    },
+    {
+        "file_name": "Sin.City.2005__#01-19-08_01-19-23_label_G-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Sin.City.2005__#01-51-59_01-52-29_label_B2-0-0.wav",
+        "response": "This audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Skyfall.2012__#00-03-22_00-03-40_label_B6-0-0.wav",
+        "response": "The audio contains a car race, which is indicated by the sound of cars revving up and tires squealing. The music in the background is a low quality, electronic instrumental that sounds like it is playing in a video game. There is also a voice that can be heard in the background, which is speaking in a foreign language. The voice is saying something that sounds like \"Come on! Come on!\" It is difficult to determine the gender of the speaker. There is also a loud explosion sound that can be heard in the background. This sound is followed by a car crash sound. The overall atmosphere of the audio is intense and exciting."
+    },
+    {
+        "file_name": "Skyfall.2012__#00-06-10_00-06-25_label_B6-0-0.wav",
+        "response": "Identifying violent events in audio"
+    },
+    {
+        "file_name": "Skyfall.2012__#01-20-05_01-20-20_label_B1-B2-0.wav",
+        "response": "The audio contains elements that suggest violent events: gunshots, explosions, screams. Therefore, the output for this audio would be \"B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident\"."
+    },
+    {
+        "file_name": "Skyfall.2012__#01-55-44_01-56-57_label_B2-G-0.wav",
+        "response": "The audio is of a military exercise with soldiers firing weapons and explosions."
+    },
+    {
+        "file_name": "Skyfall.2012__#01-57-40_01-58-00_label_B2-0-0.wav",
+        "response": "There are violent events in this audio. The possible codes are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Skyfall.2012__#02-08-44_02-09-17_label_B1-0-0.wav",
+        "response": "Tasty sound for your project. ,  , Perfectly fits for inspirational and motivational videos, YouTube videos, films ,TV, promotions, presentations, corporate videos, background music, photo slideshows, websites, commercials, advertising, radio, films, viral marketing, web advertisements, successful and business videos, games, applications, popular commercials, visuals and more! ,  , Enjoy. Thank You!"
+    },
+    {
+        "file_name": "Spectre.2015__#00-44-05_00-44-40_label_B1-B2-0.wav",
+        "response": "The audio contains sounds that may indicate violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "Spectre.2015__#01-08-58_01-09-20_label_B1-B2-0.wav",
+        "response": "This is a recording of a fight scene with gunshots, explosions, and screams. The sound is chaotic and intense."
+    },
+    {
+        "file_name": "Spectre.2015__#01-10-35_01-10-53_label_B2-0-0.wav",
+        "response": "The song is of a movie soundtrack."
+    },
+    {
+        "file_name": "Spectre.2015__#01-32-55_01-35-40_label_B1-B2-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Spectre.2015__#02-02-57_02-03-27_label_B1-B2-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosion, riot/robbery, accident, and screaming. Therefore, the output is [B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming]."
+    },
+    {
+        "file_name": "Spectre.2015__#02-15-30_02-16-05_label_G-0-0.wav",
+        "response": "The audio contains sounds of a fight, shooting, explosion, riot, and accident. It also contains screams."
+    },
+    {
+        "file_name": "Taken.2.UNRATED.EXTENDED.2012__#00-13-42_00-14-16_label_B5-0-0.wav",
+        "response": "There are violent events detected in the audio. The possible codes are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Taken.2.UNRATED.EXTENDED.2012__#00-45-50_00-46-20_label_G-0-0.wav",
+        "response": "The audio contains violent events: a fight, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Taken.2.UNRATED.EXTENDED.2012__#01-00-00_01-00-16_label_B2-0-0.wav",
+        "response": "This is a clip from a video game. There is a male voice speaking in a foreign language. The background music is dramatic and suspenseful. There is a loud explosion sound effect, followed by a female scream. The sound of glass breaking can be heard. There is the sound of footsteps and a male voice shouting. There is a loud explosion sound effect, followed by a female scream. The sound of glass breaking can be heard. There is the sound of footsteps and a male voice shouting."
+    },
+    {
+        "file_name": "Taken.2.UNRATED.EXTENDED.2012__#01-06-28_01-06-49_label_B2-0-0.wav",
+        "response": "This is a recording of a fight scene with gunshots, explosions, and screams. It may be taking place in a movie or video game."
+    },
+    {
+        "file_name": "Taken.2.UNRATED.EXTENDED.2012__#01-18-25_01-18-40_label_B2-0-0.wav",
+        "response": "The audio contains gunshots, explosions, screams, and a choir singing. Therefore, it suggests that there may be a violent event occurring, such as a fight, shooting, explosion, riot, robbery, accident, or someone screaming for help."
+    },
+    {
+        "file_name": "Taken.2.UNRATED.EXTENDED.2012__#01-18-40_01-19-00_label_B1-0-0.wav",
+        "response": "This is a looped audio file featuring a variety of sound effects, including a punch, a gun shot, an explosion, and a scream. It is not clear what is happening in the context of this audio."
+    },
+    {
+        "file_name": "Taken.3.2014__#00-03-58_00-04-16_label_B2-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Taken.3.2014__#01-04-50_01-05-05_label_B1-0-0.wav",
+        "response": "The song is an epic and heroic cinematic track with strings, brass, choir, epic percussion, and synth. It evokes feelings of excitement, tension, and victory."
+    },
+    {
+        "file_name": "Taken.3.2014__#01-09-26_01-09-54_label_G-0-0.wav",
+        "response": "This audio contains a person speaking in a foreign language, followed by a violent explosion and several other loud sounds. It is possible that this audio is from a war zone or a natural disaster area. It is important to exercise caution when listening to this audio and to seek out verified information from reliable sources."
+    },
+    {
+        "file_name": "Taken.3.2014__#01-12-48_01-14-30_label_B2-B1-0.wav",
+        "response": "The audio is of a video game battle scene with gunshots, explosions, and screams."
+    },
+    {
+        "file_name": "Taken.3.2014__#01-19-13_01-19-30_label_B1-0-0.wav",
+        "response": "There are violent events in this audio. The possible codes are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Taken.Extended.Cut.2008__#00-33-51_00-34-03_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "Taken.Extended.Cut.2008__#00-50-45_00-51-04_label_B2-B6-0.wav",
+        "response": "This is a clip from a video game. There is a loud explosion sound effect, followed by a series of gunshots. The music is intense and suspenseful. It sounds like a fight or a shooting scene in a video game."
+    },
+    {
+        "file_name": "The.Bourne.Identity.2002__#0-19-53_0-21-48_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "The.Bourne.Identity.2002__#0-54-45_0-56-25_label_B6-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming. The codes for these events are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "The.Bourne.Identity.2002__#01-27-39_01-29-19_label_B2-0-0.wav",
+        "response": "The audio contains sounds of birds chirping, footsteps, and an explosion. It is difficult to determine if there are violent events occurring in the audio."
+    },
+    {
+        "file_name": "The.Bourne.Identity.2002__#01-45-00_01-45-46_label_B1-0-0.wav",
+        "response": "The audio is of a man speaking, in a panicked and aggressive manner, with the sound of breaking glass and a door slamming in the background. It sounds like a violent event is taking place, possibly a fight or a robbery."
+    },
+    {
+        "file_name": "The.Bourne.Legacy.2012__#0-39-56_0-40-15_label_G-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "The.Bourne.Legacy.2012__#0-59-18_01-01-52_label_B2-B1-0.wav",
+        "response": "The audio is of a fight with multiple people screaming and glass breaking. It sounds like a violent event is occurring."
+    },
+    {
+        "file_name": "The.Bourne.Ultimatum.2007__#01-26-27_01-28-03_label_B2-B6-0.wav",
+        "response": "The audio contains elements that may indicate violent events: B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "The.Bourne.Ultimatum.2007__#01-44-02_01-44-11_label_B2-0-0.wav",
+        "response": "This is a recording of a fight, followed by gunshots, explosions, and screams. There is a lot of noise and chaos in the recording."
+    },
+    {
+        "file_name": "The.Fast.and.the.Furious.2001__#00-29-00_00-29-52_label_B2-G-0.wav",
+        "response": "The audio contains sounds of a car starting, revving, and crashing. It also contains gunshots and explosions. Therefore, the violent events in this audio are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "The.Fast.and.the.Furious.2001__#00-52-18_00-53-36_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "The.Fast.and.the.Furious.2001__#01-14-04_01-15-20_label_B1-0-0.wav",
+        "response": "The audio contains someone screaming and arguing in a violent manner, followed by gunshots and explosions. It is possible that there is a violent event occurring in the audio."
+    },
+    {
+        "file_name": "The.Fast.and.the.Furious.2001__#01-24-18_01-25-05_label_B6-0-0.wav",
+        "response": "The audio contains sounds of a car crash, tires screeching, and people screaming. It also contains a voice saying \"Let's get the hell outta here!\" and a siren. Based on the sounds, it is possible that there was a car accident or a chase involving a car. It is also possible that there was some sort of disturbance or altercation that led to the sounds of screaming. It is important to note that the audio quality is poor and it is difficult to determine the exact nature of the event."
+    },
+    {
+        "file_name": "The.Fast.and.the.Furious.2001__#01-37-40_01-38-30_label_B6-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "The.Hurt.Locker.2008__#0-08-45_0-09-57_label_G-0-0.wav",
+        "response": "This audio contains someone shouting and a dog barking. There is also a gun shot and an explosion sound. It is possible that there is a violent event occurring in this audio."
+    },
+    {
+        "file_name": "The.Hurt.Locker.2008__#0-19-22_0-22-32_label_B2-B1-0.wav",
+        "response": "The audio contains someone screaming, followed by a car crash, and people shouting. It sounds like an accident has occurred."
+    },
+    {
+        "file_name": "The.Hurt.Locker.2008__#01-02-10_01-03-55_label_B2-0-0.wav",
+        "response": "The audio is of a man speaking and then a gunshots are fired."
+    },
+    {
+        "file_name": "The.Hurt.Locker.2008__#01-27-42_01-28-09_label_G-0-0.wav",
+        "response": "The audio is of a group of people speaking and then an explosion occurs. There is shouting and running."
+    },
+    {
+        "file_name": "The.World.Is.Not.Enough.1999__#00-07-04_00-07-45_label_G-B2-0.wav",
+        "response": "The audio contains a variety of violent events, including fighting, shooting, explosions, and rioting/robbery. There is also screaming in the audio."
+    },
+    {
+        "file_name": "The.World.Is.Not.Enough.1999__#00-10-22_00-10-40_label_G-0-0.wav",
+        "response": "The audio contains a variety of sounds that may indicate violent events, such as gunshots, explosions, and screams. It is difficult to determine the specific nature of the events without further information."
+    },
+    {
+        "file_name": "Tropa.de.Elite.2.2010__#00-13-41_00-14-56_label_B4-0-0.wav",
+        "response": "The audio contains violent events: B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident."
+    },
+    {
+        "file_name": "Tropa.de.Elite.2.2010__#00-42-00_00-43-00_label_B2-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "Tropa.de.Elite.2.2010__#00-46-11_00-46-50_label_B2-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, and accident. The codes for these events are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "Tropa.de.Elite.2.2010__#01-33-01_01-33-30_label_B2-0-0.wav",
+        "response": "The audio contains gunshots, explosions, and people screaming. It also contains a car engine starting. These sounds suggest that there may be a violent event occurring, such as a shooting or a robbery. It is important to note that the audio quality is poor, making it difficult to determine the exact nature of the event."
+    },
+    {
+        "file_name": "Yellow.Sea.2010__#01-04-00_01-04-50_label_B1-0-0.wav",
+        "response": "This audio contains violent events. The codes for violent events are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Yellow.Sea.2010__#01-05-40_01-06-47_label_B1-B2-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "Yellow.Sea.2010__#01-58-30_01-59-27_label_B5-0-0.wav",
+        "response": "The audio contains sounds of a fight, someone groaning, and metal clanging. It is difficult to determine the specific violent event(s) that are occurring based on the audio alone."
+    },
+    {
+        "file_name": "Young.And.Dangerous.I.1996__#0-20-50_0-22-15_label_B1-0-0.wav",
+        "response": "The audio is of a fight scene with people shouting and swearing. It sounds like a heated argument or altercation."
+    },
+    {
+        "file_name": "Young.And.Dangerous.I.1996__#0-46-25_0-46-55_label_B6-0-0.wav",
+        "response": "The audio is of a group of people fighting and screaming. There are also sounds of gunshots and explosions. It is difficult to determine the exact location of the event, but it is likely to be a violent or chaotic situation."
+    },
+    {
+        "file_name": "Young.And.Dangerous.I.1996__#0-46-57_0-48-57_label_B1-0-0.wav",
+        "response": "This audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "Young.And.Dangerous.III.1996__#00-23-00_00-25-54_label_B4-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "Young.And.Dangerous.IV.1997__#01-07-50_01-09-45_label_B1-0-0.wav",
+        "response": "The audio contains violent events. The B1 code \"Fighting\" is present."
+    },
+    {
+        "file_name": "Young.And.Dangerous.IV.1997__#01-32-04_01-32-58_label_B1-0-0.wav",
+        "response": "The audio contains no violent events."
+    },
+    {
+        "file_name": "v=-etV57xZ4_I__#1_label_B4-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=-fOWSLV6Esw__#1_label_B4-0-0.wav",
+        "response": "The audio contains people shouting and singing in a loud and passionate manner. It sounds like they are at a protest or demonstration. There are also gunshots and explosions in the background, which could indicate that there is violence or chaos taking place. It is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=-kwNh1lMU-w__#1_label_B4-0-0.wav",
+        "response": "The audio contains people talking and cheering. It sounds like they are at a sports event or a celebration. There is also the sound of a car engine running in the background."
+    },
+    {
+        "file_name": "v=0N0PbzjEg0U__#1_label_B4-0-0.wav",
+        "response": "The audio contains people shouting and fighting, which could indicate violent events. B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming are the possible violent events detected in the audio."
+    },
+    {
+        "file_name": "v=0W8LohxH9nI__#1_label_B1-0-0.wav",
+        "response": "The audio is of a crowd of people in a busy area. There is a whistle blowing and people are shouting. It sounds like a large event or celebration. There is no indication of violent events in the audio."
+    },
+    {
+        "file_name": "v=0qtIjyt-7wg__#00-00-00_00-00-51_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming, which could indicate a violent event. Additionally, there are sounds of cars honking and people talking, which could also suggest a chaotic or stressful situation. It is difficult to determine the specific nature of the violent event based on the audio alone, but it is advisable to exercise caution and seek further information or assistance if necessary."
+    },
+    {
+        "file_name": "v=0qtIjyt-7wg__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming, which could indicate a violent event. Other sounds in the background suggest that the event may be taking place in a car or vehicle, with engine noise, tire screeching, and the sound of metal being struck. There may also be the sound of gunshots or explosions, which could indicate a shooting or explosion. It is important to note that without further information it is not possible to determine the specific nature of the violent event."
+    },
+    {
+        "file_name": "v=0qtIjyt-7wg__#00-04-00_00-05-15_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming, a loud crash, and the sound of wind. It is possible that there has been an accident or a fight, and someone is screaming in fear or pain. The crash and wind sounds suggest that the event may be taking place outdoors. It is important to note that this is just speculation and further investigation is needed to determine what has happened."
+    },
+    {
+        "file_name": "v=0yHBkMBE8r4__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=15wDrZJQpsw__#00-00-00_00-00-51_label_B6-0-0.wav",
+        "response": "This is a sound effect that simulates the sound of a drone flying by."
+    },
+    {
+        "file_name": "v=15wDrZJQpsw__#00-05-20_00-06-20_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming and a car crash, which could indicate a violent event. Here are the possible violent event codes that match the audio: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "v=15wDrZJQpsw__#00-09-00_00-10-55_label_B6-0-0.wav",
+        "response": "A small group of individuals are seen fighting in the street. The police arrive and try to break up the fight. A gun goes off and several people are shot. The police chase the suspect and catch him."
+    },
+    {
+        "file_name": "v=1GFBuaGCeTo__#1_label_G-0-0.wav",
+        "response": "The audio contains music playing from a car radio. It sounds like a song that is playing loudly and the lyrics are \"I'm feeling so alive\". There is also a faint sound of traffic and people talking in the background."
+    },
+    {
+        "file_name": "v=1djrJ0wxlYo__#1_label_B4-0-0.wav",
+        "response": "The audio contains people shouting and some glass breaking sounds. It sounds like a protest or demonstration."
+    },
+    {
+        "file_name": "v=1io9Uh54Vhg__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and shouting. There are loud explosions and gunshots in the background. There is a man speaking in French, saying \"Donc, c'est un gilet jaune qui est censé nous mettre en sécurité quand on tombe en panne sur la route. Donc, moi, je ne le mettrais plus parce que si on tombe en panne, on n'a pas vu ça venir, on se crashe. Alors, on se crashe.\""
+    },
+    {
+        "file_name": "v=1q5V6DKH3bw__#1_label_B4-0-0.wav",
+        "response": "The audio is of a news report about a hard-fought series and a wild night turning into a very dangerous situation in the city, with Josh Elliott tracking all of this overnight. The report mentions angry fans pouring out into the streets, heightened emotions, and four stabbings resulting from the scene being so chaotic and violent that ambulances couldn't get through to help the injured. The report is being narrated by a male voice."
+    },
+    {
+        "file_name": "v=251___mEwZA__#1_label_B1-0-0.wav",
+        "response": "I'm sorry, but there are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=2Rr21qkZEDQ__#00-03-00_00-04-09_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=2Rr21qkZEDQ__#00-14-10_00-16-09_label_B6-0-0.wav",
+        "response": "The audio contains someone singing and the sound of a car engine. It is difficult to determine if violent events are occurring in this audio."
+    },
+    {
+        "file_name": "v=2WkuPNLfl5s__#1_label_B4-0-0.wav",
+        "response": "The violent events in the audio are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "v=2al4t5inObA__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and chanting. It sounds like a celebratory event."
+    },
+    {
+        "file_name": "v=2jwO15SMyuo__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and chanting. It sounds like they are at a sporting event or a concert. There is a loud crash and then a woman screaming. It is difficult to determine the exact nature of the violent event based on this audio alone."
+    },
+    {
+        "file_name": "v=35zynOrkvMk__#1_label_G-0-0.wav",
+        "response": "The audio contains someone talking, followed by a beep, and then someone saying \"Vivis second victim sitting IED Those guys are dead Yeah Roger didn't like him anyway\". It sounds like a conversation taking place in a tense or dangerous situation. There are sounds of gunshots and explosions, which could indicate violence or a riot. It is difficult to determine the exact nature of the event without more context."
+    },
+    {
+        "file_name": "v=38GQ9L2meyE__#1_label_B6-0-0.wav",
+        "response": "The audio contains sounds of destruction, breaking glass, explosions, and screams. It is possible that this audio is from a violent event such as a fight, shooting, robbery, accident, or riot."
+    },
+    {
+        "file_name": "v=3WmMhircZOc__#1_label_B4-0-0.wav",
+        "response": "The audio contains a siren, a beeping sound, and a voice screaming. It is difficult to determine the specific nature of the event based on this audio alone, as it is a short snippet and does not provide any context. It is possible that the siren is indicating an emergency or a police chase, the beeping sound could be a warning signal or a malfunctioning device, and the voice screaming could be someone in distress or a person giving a warning. It is important to note that this audio does not provide enough information to determine the specific nature of the event and further investigation is needed."
+    },
+    {
+        "file_name": "v=3e3C-LQWF2s__#1_label_B1-0-0.wav",
+        "response": "The audio contains a crowd shouting and cheering. It sounds like a sports event."
+    },
+    {
+        "file_name": "v=3wxWNAM8Cso__#1_label_G-0-0.wav",
+        "response": "I'm sorry, but there are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=3xWiBCIxjIk__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd shouting. It sounds like a crowd of people are shouting, \"No, no, no!\" and \"USA! USA!\". It is possible that this audio is from a sporting event or a political rally, where people are expressing their support or dissent for a particular team or candidate."
+    },
+    {
+        "file_name": "v=3xkwZk44VQs__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd of people shouting and cheering. It sounds like a celebration or a protest. There are also some gunshots and explosions in the background. It is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=3y2OOc6WTrg__#1_label_B1-0-0.wav",
+        "response": "No violent events are detected in the audio."
+    },
+    {
+        "file_name": "v=3zgaqeVSXuI__#1_label_B4-0-0.wav",
+        "response": "The audio is of a protest rally with chanting and shouts. There is a sound of a gun being fired and people screaming."
+    },
+    {
+        "file_name": "v=5BBoVfKOyeM__#00-08-19_00-10-10_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming."
+    },
+    {
+        "file_name": "v=5Ftl4nOSytc__#1_label_G-0-0.wav",
+        "response": "The audio is of a violent event where gunshots are fired, people are screaming, and there is a car crash. The codes for violent events are B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "v=5Tnl7_8RqlA__#00-11-00_00-12-45_label_B6-0-0.wav",
+        "response": "The audio contains a fight, followed by gunshots, an explosion, and a scream. It is difficult to determine the exact nature of the violent events without further information."
+    },
+    {
+        "file_name": "v=6KQFxxHmVMc__#1_label_B1-0-0.wav",
+        "response": "This audio contains the sound of a basketball game with a crowd of people cheering and shouting. There is a whistle blowing and a crowd member screaming."
+    },
+    {
+        "file_name": "v=6TR2rcgHm4g__#1_label_B4-0-0.wav",
+        "response": "A modern sounding hybrid trailer with choir, strings, and synth bass."
+    },
+    {
+        "file_name": "v=6nfo9c7a5pE__#1_label_B1-0-0.wav",
+        "response": "The audio is of a fight breaking out in a gymnasium. There is a lot of commotion and shouting, with people screaming and grunting. There is also the sound of a whistle blowing and the sound of footsteps running. It sounds like a chaotic and intense scene."
+    },
+    {
+        "file_name": "v=73uRcX0Dvfc__#00-00-00_00-01-51_label_B6-G-0.wav",
+        "response": "The audio contains someone screaming and then a loud crash. It also contains the sound of people talking and music playing in the background. It is difficult to determine if there are any violent events in this audio."
+    },
+    {
+        "file_name": "v=78u9uBJBqIw__#1_label_B4-B5-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=7QOdBpDrmKk__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=7QOdBpDrmKk__#00-10-30_00-10-51_label_B6-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "v=7isLhaNYgkU__#1_label_B4-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "v=7rDRFFSUrPI__#00-01-50_00-02-32_label_G-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "v=7xQr5wYwNPg__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd chanting and cheering. It sounds like they are celebrating something."
+    },
+    {
+        "file_name": "v=7zEFHKKBA0g__#1_label_B4-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "v=8ewWXhYRUNs__#1_label_B1-0-0.wav",
+        "response": "The audio is of a crowd cheering and celebrating. There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=8oJMGgaww70__#1_label_B4-0-0.wav",
+        "response": "The audio is of a protest rally, and it features a crowd chanting and shouting. It sounds like a passionate and angry crowd, and there may be some pushing and shoving. There are also some gunshots heard, which could indicate that there is some kind of violence or disturbance happening. It is difficult to determine the exact nature of the event without more information."
+    },
+    {
+        "file_name": "v=8oTjTufJnXI__#1_label_G-0-0.wav",
+        "response": "The recording is of a bus ride. There is a person speaking in the background."
+    },
+    {
+        "file_name": "v=8tqeeBGjnPg__#00-03-12_00-04-15_label_B6-0-0.wav",
+        "response": "The audio contains people speaking, so it is not possible to determine if violent events are occurring."
+    },
+    {
+        "file_name": "v=96N4XAJ7FKM__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=9CWJd1SezkA__#1_label_G-0-0.wav",
+        "response": "The audio is of a quiet recording with a faint hissing sound in the background. There are no voices or other sounds that could indicate the presence of violent events. Therefore, the output for this audio is 'None'."
+    },
+    {
+        "file_name": "v=9Jk2sIp5MRQ__#1_label_G-0-0.wav",
+        "response": "This is a recording of a car crash. There are sounds of metal crunching, people shouting, and a car engine revving. It sounds like a serious accident has occurred."
+    },
+    {
+        "file_name": "v=9Ydg5IeZpFI__#1_label_B1-0-0.wav",
+        "response": "There are violent events detected in this audio. Specifically, there is fighting, shooting, and an explosion."
+    },
+    {
+        "file_name": "v=ADQNFs9bfFk__#00-00-00_00-00-58_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and shouting. It sounds like a celebratory event."
+    },
+    {
+        "file_name": "v=AF9p0YA0hyA__#00-00-45_00-01-44_label_B4-0-0.wav",
+        "response": "The audio contains gunshots and explosions, which suggest violent events."
+    },
+    {
+        "file_name": "v=AF9p0YA0hyA__#00-03-03_00-04-20_label_B4-0-0.wav",
+        "response": "The audio is of a crowd of people shouting and cheering. There is a man shouting loudly in the center of the crowd."
+    },
+    {
+        "file_name": "v=BFPkt0AuSFA__#1_label_B4-0-0.wav",
+        "response": "The audio is of a fire alarm going off."
+    },
+    {
+        "file_name": "v=BQjKQbYgUBA__#1_label_B1-0-0.wav",
+        "response": "The audio is of a man speaking, in a Tennessee accent, about a hockey fight. He mentions that he has broken his hand four times and his nose has been broken. He also mentions that the fight is a bitter rivalry and that fights usually come with the territory. There is no violence in the audio."
+    },
+    {
+        "file_name": "v=BXR3d22BhHs__#00-06-00_00-07-00_label_B4-0-0.wav",
+        "response": "The audio contains people screaming and shouting, which could indicate a violent event. There are also sounds of gunshots and explosions, which could suggest a shooting or explosion. It is difficult to determine the specific nature of the event without further information."
+    },
+    {
+        "file_name": "v=BXR3d22BhHs__#00-07-00_00-08-00_label_B4-0-0.wav",
+        "response": "The audio contains emergency sirens, crowd noise, and gunshots. It sounds like a violent event is occurring."
+    },
+    {
+        "file_name": "v=BpargJW29Wo__#00-00-50_00-01-30_label_B1-0-0.wav",
+        "response": "The sound is of a group of people shouting and fighting."
+    },
+    {
+        "file_name": "v=BzwNU2xmT64__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=BzwNU2xmT64__#00-04-10_00-06-09_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming and then the sound of a vehicle crashing and a loud explosion. It sounds like a fight or an accident has occurred."
+    },
+    {
+        "file_name": "v=CFfc4UWzVB8__#00-00-00_00-00-30_label_B4-0-0.wav",
+        "response": "The audio contains no violent events."
+    },
+    {
+        "file_name": "v=CLFYvG6MsZU__#00-02-16_00-05-06_label_B2-0-0.wav",
+        "response": "The audio is of someone chopping wood with an axe and making statements. There is no violent event detected in the audio."
+    },
+    {
+        "file_name": "v=CUr-Mg8Hmh0__#1_label_G-0-0.wav",
+        "response": "The audio contains someone screaming."
+    },
+    {
+        "file_name": "v=CcD-YNlkMPY__#1_label_G-0-0.wav",
+        "response": "The audio does not contain any violent events."
+    },
+    {
+        "file_name": "v=CczYDDDf22A__#1_label_G-0-0.wav",
+        "response": "This audio contains a lot of noise and wind, and a man speaking. There is a loud explosion, and then more people speaking. There is a lot of rustling and clanking. There is a faint sound of a vehicle engine running. There is a loud noise like something being dragged across the ground. There is a woman screaming. There is a lot of wind and noise."
+    },
+    {
+        "file_name": "v=CoxsDkB-rWU__#00-07-06_00-10-30_label_B4-0-0.wav",
+        "response": "The audio contains people shouting, gunshots, explosions, and screams. It sounds like a violent event is taking place."
+    },
+    {
+        "file_name": "v=CvMpD1yqfxI__#1_label_G-0-0.wav",
+        "response": "The audio contains wind sounds, gunshots, explosions, and screaming. It sounds like a violent event is occurring."
+    },
+    {
+        "file_name": "v=D1eP4Bn4hDQ__#00-09-20_00-10-45_label_B6-0-0.wav",
+        "response": "The audio contains someone shouting and car doors slamming. It does not contain any violent events."
+    },
+    {
+        "file_name": "v=DD3jfKr8e-k__#00-00-00_00-01-40_label_B4-0-0.wav",
+        "response": "The audio contains people screaming, followed by gunshots, and then a loud explosion. It sounds like a violent event is occurring."
+    },
+    {
+        "file_name": "v=DRGMajXo_PI__#00-02-15_00-03-02_label_G-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "v=DVdXoVUNkhg__#1_label_G-0-0.wav",
+        "response": "The audio does not contain any violent events."
+    },
+    {
+        "file_name": "v=Dh-3BlhAOnE__#00-00-00_00-13-36_label_B4-0-0.wav",
+        "response": "The audio contains people shouting and cursing, which sounds like fighting or aggressive behavior. There is also a loud explosion sound, which could be a reference to a riot or robbery. It is difficult to determine the exact nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=Dn_SDu22WpM__#00-08-35_00-10-05_label_B6-0-0.wav",
+        "response": "The audio contains sounds of an explosion, followed by a car crash, and a man screaming. It also contains background voices and sounds of breaking glass. It is possible that there was a violent event such as a shooting, rioting, or robbery taking place."
+    },
+    {
+        "file_name": "v=DtxU8UYiFws__#1_label_G-0-0.wav",
+        "response": "The audio is of a military training exercise with the sound of a whistle, explosions, and people speaking."
+    },
+    {
+        "file_name": "v=EH_QB6cm6BE__#1_label_G-0-0.wav",
+        "response": "The audio is of a woman speaking, in a Louisiana accent, about an 18 wheeler explosion on the highway. She says that the dashcam recorded it all and that the vehicle was carrying about 8 thousand pounds of gasoline. She also mentions that the dump truck driver died at the scene and miraculously, the man behind the wheel of the big rig escaped with only moderate injuries. She is unsure why the dump truck was going so slow."
+    },
+    {
+        "file_name": "v=EOAfl8yMiN8__#00-00-00_00-00-51_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=EOAfl8yMiN8__#00-03-00_00-04-09_label_B6-0-0.wav",
+        "response": "The audio contains no violent events."
+    },
+    {
+        "file_name": "v=FRj2K0ulD8Q__#00-00-00_00-00-57_label_B4-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "v=FRj2K0ulD8Q__#00-04-16_00-06-05_label_B4-0-0.wav",
+        "response": "There are violent events detected in the audio. Specifically, there is fighting, shooting, an explosion, and a riot/robbery. There is also screaming."
+    },
+    {
+        "file_name": "v=FRj2K0ulD8Q__#00-06-05_00-08-25_label_B4-0-0.wav",
+        "response": "There are violent events detected in this audio. Specifically, there is fighting, shooting, an explosion, and a riot/robbery. There is also screaming."
+    },
+    {
+        "file_name": "v=FW_qbiPH7UA__#1_label_B1-0-0.wav",
+        "response": "Based on the voice, it sounds like someone is in a dangerous situation and is making distress calls. The sound of birds chirping and traffic in the background suggest that this may be taking place in a city or urban area. There is also the sound of music playing in the background, which could be a radio or a phone playing music. It is difficult to determine the exact location of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=FfrXebzAwOg__#00-06-10_00-07-19_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=GI49YSCruwY__#1_label_B4-0-0.wav",
+        "response": "The audio contains people shouting and cheering. It sounds like they are at a sporting event or a festival. There is also the sound of a crowd cheering and shouting. It is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=GN-7_ye5k4E__#1_label_G-0-0.wav",
+        "response": "The sound is of someone repeatedly shooting a gun."
+    },
+    {
+        "file_name": "v=GbMQ2CxeNHU__#1_label_B4-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=GqMh_HBNWZE__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "No violent events are detected in the audio."
+    },
+    {
+        "file_name": "v=H5W58Loofks__#00-05-50_00-06-20_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming, a car engine, and gunshots. It is not clear what is happening in the context of the audio."
+    },
+    {
+        "file_name": "v=HSisjzLESak__#00-00-00_00-00-51_label_B6-0-0.wav",
+        "response": "This is a royalty free music track in the style of trailer music. It is a suspenseful and dramatic piece with a very powerful impact. It features a big orchestral sound with heavy drums, deep bass, and strings. It is ideal for film, TV, and video games."
+    },
+    {
+        "file_name": "v=HSisjzLESak__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "The audio contains a man speaking and then a car alarm going off. It sounds like the man is trying to call for help and the car alarm is going off in the background. There is also a faint siren in the distance."
+    },
+    {
+        "file_name": "v=HSisjzLESak__#00-07-40_00-08-50_label_B6-0-0.wav",
+        "response": "The audio contains someone speaking, so it is possible that there are violent events in the audio. However, without further information, it is not possible to determine the specific codes for each event."
+    },
+    {
+        "file_name": "v=HUL83wCQATc__#1_label_B1-0-0.wav",
+        "response": "The audio is of a basketball game and contains crowd noise, players' voices, and a fight."
+    },
+    {
+        "file_name": "v=Hnfy9XhlIPM__#1_label_B4-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosion, rioting, and screaming. Therefore, the output is ['B1:Fighting', 'B2:Shooting', 'B4:Explosion', 'B5:Riot/Robbery', 'B6:Accident']."
+    },
+    {
+        "file_name": "v=ICnreR1hxP0__#1_label_B4-0-0.wav",
+        "response": "The audio contains fighting, shooting, and explosion sounds."
+    },
+    {
+        "file_name": "v=IWzI9V3WSnc__#1_label_B4-0-0.wav",
+        "response": "The audio is of a loudspeaker announcement in a crowded area. The announcement is in Russian and mentions the word \"помощь\" which translates to \"help\" in English. The audio also contains the sound of gunshots and explosions, which could indicate a violent event."
+    },
+    {
+        "file_name": "v=Ia9ATKNeUbY__#00-01-52_00-03-10_label_B6-0-0.wav",
+        "response": "The audio contains sounds of people speaking, footsteps, and a car door closing. It also contains a loud explosion sound effect. Based on the sounds, it is likely that the audio is from a music video or film scene."
+    },
+    {
+        "file_name": "v=Ia9ATKNeUbY__#00-04-19_00-05-11_label_B6-0-0.wav",
+        "response": "The audio is of a car crash."
+    },
+    {
+        "file_name": "v=Ia9ATKNeUbY__#00-05-19_00-06-09_label_B6-0-0.wav",
+        "response": "The audio contains sounds of people screaming, footsteps, and explosions. It sounds like a violent event is occurring."
+    },
+    {
+        "file_name": "v=Ia9ATKNeUbY__#00-06-19_00-06-50_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=J67oj92maC0__#1_label_G-0-0.wav",
+        "response": "The audio contains someone shouting, followed by a loud explosion, and then laughter. It sounds like a training exercise or a movie scene."
+    },
+    {
+        "file_name": "v=J_ZsNd97wXw__#1_label_G-0-0.wav",
+        "response": "The audio contains a man screaming and the sound of drums. It is possible that there is an event such as a fight, shooting, or accident happening, but it is not possible to determine the specific nature of the event based on the audio alone. It is recommended to seek further information from reliable sources."
+    },
+    {
+        "file_name": "v=JfLYNEsrTew__#1_label_G-0-0.wav",
+        "response": "The audio is of a loud explosion."
+    },
+    {
+        "file_name": "v=KUeUxbsBO6s__#1_label_B1-0-0.wav",
+        "response": "No violent events were detected in the audio."
+    },
+    {
+        "file_name": "v=LJ0Pu5_Mefs__#1_label_G-0-0.wav",
+        "response": "The audio is of a fight taking place with gunshots and explosions."
+    },
+    {
+        "file_name": "v=Lt9M_tSij_4__#00-00-00_00-04-24_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming, car honking, and a explosion sound. It is possible that there was a violent event such as a fight, shooting, or explosion nearby, which caused the scream and car honking, and the explosion sound was recorded later. It is important to note that this is just a speculation and further investigation is needed to determine the exact nature of the event."
+    },
+    {
+        "file_name": "v=MJLylzPRvyw__#1_label_B4-0-0.wav",
+        "response": "The audio contains people shouting and screaming. It sounds like they are angry or upset. There are also loud noises that could be gunshots or explosions. It is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=MqrNCb2N5to__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=NnmqkS1e88s__#1_label_B4-0-0.wav",
+        "response": "The audio contains people shouting, which sounds like they are angry or protesting. It is difficult to determine the specific nature of the event based on the audio alone, as it is not clear what is being protested or why. It is possible that the audio is from a political or social protest, a demonstration, or a riot."
+    },
+    {
+        "file_name": "v=O9g1uuI62m0__#1_label_B4-0-0.wav",
+        "response": "The audio contains a large crowd, loudspeakers, and several explosions. It sounds like a protest or demonstration."
+    },
+    {
+        "file_name": "v=OB0-MXNPUIU__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd of people cheering and clapping. There is no violent event detected in the audio."
+    },
+    {
+        "file_name": "v=OE9t3XImErk__#1_label_B1-0-0.wav",
+        "response": "The audio contains sounds of a fight, shouting, and traffic. It is not clear if there are any violent events in the audio."
+    },
+    {
+        "file_name": "v=OFxPTJxA5pg__#1_label_B4-0-0.wav",
+        "response": "The audio contains people screaming. It sounds like they are angry or scared."
+    },
+    {
+        "file_name": "v=ONsmJAyFAAw__#1_label_G-0-0.wav",
+        "response": "The audio contains sounds of explosions, screaming, and gunshots. It sounds like a chaotic and violent event is taking place."
+    },
+    {
+        "file_name": "v=OOjjPGN8jSU__#1_label_B6-0-0.wav",
+        "response": "The sound of a camera shutter clicking."
+    },
+    {
+        "file_name": "v=PRH5rYUHoVU__#00-00-25_00-02-50_label_B6-0-0.wav",
+        "response": "The audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "v=PWBZiM-rkoE__#1_label_G-0-0.wav",
+        "response": "The lyrics are \"Today was an opportunity for the team to go out and exercise their ability to respond to a suspect vehicle at the north gate. It was an opportunity for them to go out and exercise that capability to employ some of the tools and techniques that we don't get to do very often here. And to just really be prepared in case that happens. So we rolled up. We knew there was an incident in the back. So we deployed the robot. Robot went down range to try and investigate. And that's where we are now.\"."
+    },
+    {
+        "file_name": "v=PuZy1PQIgrA__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=Q-u3Y9TkZhQ__#1_label_B4-0-0.wav",
+        "response": "The audio is of a person speaking through a loudspeaker in a crowded place. It is difficult to determine the exact nature of the event or situation based on the audio alone. However, it sounds like there may be some kind of announcement or warning being made to the crowd."
+    },
+    {
+        "file_name": "v=Q6zIX29HkSo__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and shouting. There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=Q7NpJXOTiMY__#1_label_G-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosions, and screaming. It is difficult to determine the specific location and nature of the event based on the audio alone, but it sounds like it may be taking place in a war zone or other high-stress situation."
+    },
+    {
+        "file_name": "v=Q8K7roZu3WU__#1_label_B1-0-0.wav",
+        "response": "The audio contains crowd noise, with people shouting and cheering. It also contains the sound of a stick hitting the ground and the sound of a voice speaking. It is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=Q9Re4CnFJRg__#00-01-21_00-01-47_label_G-0-0.wav",
+        "response": "The audio contains a series of gunshots, explosions, and shouting. It is possible that a violent event is occurring."
+    },
+    {
+        "file_name": "v=QWwDsPSe7iM__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd shouting and cheering. It sounds like a sporting event or a political rally. There is a loud explosion sound and a whistle blowing."
+    },
+    {
+        "file_name": "v=Qc3pAEeK16A__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=ROrpKx3aIjA__#1_label_G-0-0.wav",
+        "response": "No violent events were detected in the audio."
+    },
+    {
+        "file_name": "v=RUjrMYWhLng__#1_label_B6-0-0.wav",
+        "response": "The audio contains someone speaking, followed by a car engine starting and a door slamming. It sounds like someone is in a hurry or in a state of panic. There is also a faint sound of sirens in the background. It is difficult to determine the exact nature of the event based on this audio alone, but it could be a car chase, a robbery, or an accident."
+    },
+    {
+        "file_name": "v=Rc9EOFjtj0c__#1_label_B6-0-0.wav",
+        "response": "The audio is of a playground with children playing and shouting."
+    },
+    {
+        "file_name": "v=S-7rRLrxnVQ__#1_label_B4-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident, G: Screaming."
+    },
+    {
+        "file_name": "v=SE5fxK7SasU__#00-03-23_00-04-08_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and shouting. It sounds like they are at a sporting event or a festival."
+    },
+    {
+        "file_name": "v=SMy2_qNO2Y0__#00-01-50_00-03-13_label_G-0-0.wav",
+        "response": "The audio contains someone screaming, followed by a loud explosion and a metallic sound. It is not clear what is happening in the context of the audio."
+    },
+    {
+        "file_name": "v=T-LH8Gv5zzY__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd of people shouting and running. It sounds like they are in a hurry and are being chased by someone or something. There is also the sound of sirens in the background. It is difficult to determine the specific violent event that is occurring based on the audio alone."
+    },
+    {
+        "file_name": "v=TOEVc-pOEwM__#00-08-40_00-10-40_label_B6-0-0.wav",
+        "response": "The lyrics are \"Don't you see I'm the baddest\"."
+    },
+    {
+        "file_name": "v=TfS-MJoVNjM__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and shouting. It sounds like they are at a sporting event or a concert. There are also sounds of explosions and gunshots, which could indicate that there is violence or a riot occurring. It is difficult to determine the exact nature of the event without more information."
+    },
+    {
+        "file_name": "v=TsuuRo6PEXM__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=U6MC8JJJZSY__#1_label_G-0-0.wav",
+        "response": "The audio contains sounds of wind, explosions, and gunshots.  ,  , This could be a scene from a movie or video game where there is an action sequence taking place.  ,  , The wind sounds could represent the movement of characters or objects in the scene.  ,  , The explosions and gunshots could represent the sound of violence or conflict.  ,  , Overall, the audio suggests a fast-paced and intense scene."
+    },
+    {
+        "file_name": "v=UK--hvgP2uY__#1_label_G-0-0.wav",
+        "response": "There are no violent events in the audio. The audio is of a man speaking about his colleague who was on the mountain when an earthquake occurred."
+    },
+    {
+        "file_name": "v=UK2w9Sh47fM__#1_label_G-0-0.wav",
+        "response": "The audio contains gunshots and explosions, which could indicate violent events."
+    },
+    {
+        "file_name": "v=UYFR-XbyZQc__#00-01-19_00-02-42_label_G-0-0.wav",
+        "response": "The audio contains someone speaking, followed by a loud explosion sound. It is not clear what is happening in the context of the audio."
+    },
+    {
+        "file_name": "v=UzxuX79xq4s__#1_label_B4-0-0.wav",
+        "response": "Fighting, Shooting, Riot/Robbery, Accident."
+    },
+    {
+        "file_name": "v=V7FtjJStY1M__#1_label_G-0-0.wav",
+        "response": "I'm sorry, but there are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=WiS3TIvykeY__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and whistling. There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=X1arMZmYhsk__#00-13-00_00-14-09_label_B6-0-0.wav",
+        "response": "The audio is of a train passing by with a loud whistle and then a train horn blows."
+    },
+    {
+        "file_name": "v=X4I8FhpGJwo__#00-07-40_00-08-50_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=X4I8FhpGJwo__#00-09-00_00-10-45_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=X6Tbn8_X-Os__#1_label_B1-0-0.wav",
+        "response": "The audio is of a crowd cheering and celebrating a basketball game."
+    },
+    {
+        "file_name": "v=Y1hxr1MWLjM__#1_label_B1-0-0.wav",
+        "response": "The sound contains people speaking, and it sounds like they are arguing or fighting. There are also some glass breaking sounds. It is difficult to determine the specific violent events that are occurring without more information."
+    },
+    {
+        "file_name": "v=Y43UkfAe_bc__#00-00-00_00-01-40_label_B4-0-0.wav",
+        "response": "The audio contains people screaming and cheering, which could indicate a lively and exciting event. However, it is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=YANmwpkuWRo__#1_label_G-0-0.wav",
+        "response": "The audio is of gunshots being fired. Therefore, the appropriate codes to detect violent events in this audio are B2: Shooting and B4: Explosion."
+    },
+    {
+        "file_name": "v=YKtw6uLEGps__#1_label_B4-0-0.wav",
+        "response": "B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "v=YdrISbwy_zI__#1_label_G-0-0.wav",
+        "response": "The audio is of a news report about the sinking of the USS Indianapolis. The report mentions that the ship was hit by salvoes of torpedoes and sank with the loss of 800 and 59 lives. The report also mentions that the ship's after magazine blew up."
+    },
+    {
+        "file_name": "v=YhCSFZNwfHc__#00-01-15_00-01-42_label_G-B2-0.wav",
+        "response": "Someone is shooting a gun."
+    },
+    {
+        "file_name": "v=Z12t5h2mBJc__#1_label_B1-0-0.wav",
+        "response": "This audio contains violent events: B1:Fighting, B2:Shooting."
+    },
+    {
+        "file_name": "v=ZCjNPgNu42g__#1_label_B4-0-0.wav",
+        "response": "The violent events detected in the audio are: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "v=ZkUciDD55kA__#00-00-00_00-00-30_label_G-0-0.wav",
+        "response": "The audio is of a machine gun firing and explosions."
+    },
+    {
+        "file_name": "v=ZnFlL84K7HE__#00-27-53_00-34-45_label_B4-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=ZoS8gm5OcOM__#00-06-20_00-07-30_label_B6-0-0.wav",
+        "response": "I'm sorry, but there are no signs of violent events in the audio. It is a conversation between two people."
+    },
+    {
+        "file_name": "v=ZoS8gm5OcOM__#00-07-50_00-08-55_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming, which could indicate a violent event. However, without further information or context, it is difficult to determine the specific nature of the event or whether it is violent. It is recommended to seek additional information and context before making any conclusions."
+    },
+    {
+        "file_name": "v=_5Kmb4tqMxs__#1_label_B4-0-0.wav",
+        "response": "The audio is of a group of people shouting and chanting. It sounds like they are celebrating or cheering. There is also the sound of footsteps and the sound of something being thrown. It is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=_BgJEXQkjNQ__#1_label_G-0-0.wav",
+        "response": "The recording is of birds chirping in a forest."
+    },
+    {
+        "file_name": "v=_YobflFU_HU__#00-06-10_00-07-51_label_B6-0-0.wav",
+        "response": "The audio contains sounds of people talking and laughing, a car door closing, and a vehicle starting. It sounds like a group of people are having fun and enjoying themselves."
+    },
+    {
+        "file_name": "v=_tsSKAsVZfo__#1_label_B4-0-0.wav",
+        "response": "The audio contains a man speaking, and it sounds like he is describing a fight that happened on Blake Street. He mentions that people were getting hit with bottles and that there was a large crowd. It sounds like the fight was happening in a busy street or public area. There is also some shouting and noise in the background."
+    },
+    {
+        "file_name": "v=aQ3qMpgZjwg__#00-00-00_00-01-48_label_B4-0-0.wav",
+        "response": "The audio contains people talking and screaming, and it sounds like there may be some kind of disturbance or emergency happening. It is difficult to determine the specific nature of the event based on the audio alone, but it sounds like there may be some kind of disturbance or emergency happening. It is important to note that the audio quality is poor and it is difficult to make out the specific details of what is happening."
+    },
+    {
+        "file_name": "v=aWPWHU8x6kE__#1_label_B4-0-0.wav",
+        "response": "The audio does not contain any violent events."
+    },
+    {
+        "file_name": "v=abATVcjFumY__#1_label_G-0-0.wav",
+        "response": "The audio is of a ship's horn blaring continuously."
+    },
+    {
+        "file_name": "v=afhttnv46Y4__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=b0MUjeKAGZw__#1_label_B4-0-0.wav",
+        "response": "The audio contains people shouting and chanting. It sounds like a protest or demonstration."
+    },
+    {
+        "file_name": "v=bDm2-1NZBLw__#1_label_B4-0-0.wav",
+        "response": "The audio contains people cheering and whistling. It also contains the sound of a firework and the sound of a car horn. It sounds like a celebration or a protest."
+    },
+    {
+        "file_name": "v=bfOlheR5nUQ__#00-00-00_00-04-33_label_B4-0-0.wav",
+        "response": "The audio is of a crowd of people cheering and shouting. It sounds like they are at a sporting event or a concert. There is also music playing in the background. It is difficult to determine if there are any violent events occurring in the audio based on the sound alone."
+    },
+    {
+        "file_name": "v=bfOlheR5nUQ__#00-04-33_00-06-02_label_B4-0-0.wav",
+        "response": "The audio is of a crowd shouting and cheering. There is no violent event detected in the audio."
+    },
+    {
+        "file_name": "v=bhZs3ALdL7Y__#1_label_G-0-0.wav",
+        "response": "The audio is of an explosion."
+    },
+    {
+        "file_name": "v=cEOM18n8fhU__#1_label_G-0-0.wav",
+        "response": "The audio is of a boat ride with people talking and a cow mooing. No violent events are detected in the audio."
+    },
+    {
+        "file_name": "v=cO1UefhG7AY__#1_label_G-0-0.wav",
+        "response": "The audio is of a mosque's call to prayer. It is a religious event and therefore cannot be considered violent."
+    },
+    {
+        "file_name": "v=cuUK-3MNqtw__#1_label_B1-0-0.wav",
+        "response": "The audio is of a basketball game, with people talking and shoes squeaking on the court. It does not contain any violent events."
+    },
+    {
+        "file_name": "v=d5lTTPvJLpw__#1_label_B4-0-0.wav",
+        "response": "The audio contains violent events. The codes are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "v=eqtJjxsTgtg__#1_label_G-0-0.wav",
+        "response": "The audio is of a gun being fired and people laughing and screaming. It sounds like a training exercise or a prank gone wrong."
+    },
+    {
+        "file_name": "v=f6j3YWgVBto__#00-06-16_00-06-51_label_B6-0-0.wav",
+        "response": "The audio contains sounds of cars honking, explosions, and sirens. It sounds like a chaotic and violent event is taking place."
+    },
+    {
+        "file_name": "v=fIlmgvc-bUk__#1_label_B4-0-0.wav",
+        "response": "The audio contains sounds of a crowd cheering and a car engine starting. It is difficult to determine if any violent events are occurring based on the audio alone."
+    },
+    {
+        "file_name": "v=fQQzg2VfJME__#1_label_B4-0-0.wav",
+        "response": "The audio contains gunshots and explosions, which suggest violent events."
+    },
+    {
+        "file_name": "v=fhiAyxpDQMU__#1_label_B4-0-0.wav",
+        "response": "The audio is of a basketball game with people cheering and shouting. Gunshots can be heard, which may indicate violence. It is not possible to determine the specific nature of the violence without further information."
+    },
+    {
+        "file_name": "v=g2v3EkBj9Zc__#1_label_B4-0-0.wav",
+        "response": "The audio contains someone shouting and several people talking. It sounds like a crowd of people are gathered in a park or outdoor area. There is a loud and persistent ringing sound, which could be a bell or a siren. It is difficult to determine the specific nature of the event based on the audio alone."
+    },
+    {
+        "file_name": "v=gENp4SyNxkI__#1_label_B1-0-0.wav",
+        "response": "The audio contains people laughing and shouting, which sounds like a group of people having fun. There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=gbRIKogNZvE__#1_label_B4-0-0.wav",
+        "response": "The audio contains people talking, a whistle blowing, and the sound of something exploding. It also sounds like there may be some background music playing. It is difficult to determine the specific nature of the violent events based on the audio alone, as it is not clear what is causing the noise. It is possible that there is fighting, shooting, or an explosion occurring, but without more information it is impossible to say for certain."
+    },
+    {
+        "file_name": "v=gp_D8r-2hwk__#1_label_G-0-0.wav",
+        "response": "The audio is of a man speaking in French over a radio transmission. The man is speaking rapidly and it is difficult to understand what he is saying. There is a strong wind noise in the background."
+    },
+    {
+        "file_name": "v=gsz_P8t-KM4__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and celebrating, with the sound of a police siren in the distance. It is difficult to determine if any violent events are occurring based on the audio alone."
+    },
+    {
+        "file_name": "v=hAHXCMRvY_I__#1_label_G-0-0.wav",
+        "response": "This is a recording of a loud explosion and a car crash. There is a loud crackling sound, followed by a loud explosion and a car crash. There is also a loud screaming sound. This recording may be used in a movie or video game."
+    },
+    {
+        "file_name": "v=hxyhulJYz5I__#00-06-09_00-07-00_label_B6-0-0.wav",
+        "response": "The audio contains the sound of a train whistle, a woman speaking, and a song playing. It is difficult to determine if any violent events are occurring based on the audio alone."
+    },
+    {
+        "file_name": "v=iHuggczItBk__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "The audio contains someone speaking in a foreign language, followed by a loud explosion sound and the sound of a car crash. It is not clear what is happening in the context of the audio."
+    },
+    {
+        "file_name": "v=iHuggczItBk__#00-03-00_00-03-55_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming. This could indicate a violent event such as a fight, shooting, explosion, riot/robbery, accident, or someone being attacked. It is important to note that this is only a suggestion and that further investigation is needed to determine the nature of the event."
+    },
+    {
+        "file_name": "v=iHuggczItBk__#00-04-00_00-04-55_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=iWfUqxibqG0__#1_label_G-0-0.wav",
+        "response": "The audio contains people shouting and laughing, as well as a car horn and a siren. It sounds like a chaotic and noisy environment."
+    },
+    {
+        "file_name": "v=iegHZ_UWWsA__#00-14-05_00-20-33_label_B4-0-0.wav",
+        "response": "The audio contains someone speaking, in a military context, about the equipment they have and its use. They mention \"stun grenades\", \"smoke bombs\", \"radios\", \"ammo\", and \"aggressive behavior\". There is also the sound of a gun being fired. It is possible that this audio is from a training exercise or a simulation, but it is not possible to determine for certain without further context."
+    },
+    {
+        "file_name": "v=jYENhkzdpO8__#00-00-00_00-01-31_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming. It is not clear what is causing the scream. There are also sounds of cars driving and screeching tires. It is possible that there is a car chase or some other type of violent event occurring in the audio."
+    },
+    {
+        "file_name": "v=k7R_Qo-BiAw__#00-10-30_00-10-51_label_B6-0-0.wav",
+        "response": "The audio contains people talking and some clicking sounds. It sounds like they are on a boat and the boat is moving. There is also some wind noise."
+    },
+    {
+        "file_name": "v=k98yVPXiYoU__#1_label_G-0-0.wav",
+        "response": "There are violent events in this audio. The codes are B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming."
+    },
+    {
+        "file_name": "v=kPWdgckIhLI__#1_label_B4-0-0.wav",
+        "response": "The audio contains someone shouting and a whistle blowing. It sounds like a sports game or a protest."
+    },
+    {
+        "file_name": "v=kVl-6-A9ZO4__#00-08-01_00-09-35_label_B6-0-0.wav",
+        "response": "The audio contains a car engine starting, revving and driving away. It also contains people talking and some background noises. It sounds like a car ride."
+    },
+    {
+        "file_name": "v=k_cvJa1kNaM__#1_label_B4-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "v=lcBUb7EOQ4o__#1_label_G-0-0.wav",
+        "response": "The audio is of a motor running."
+    },
+    {
+        "file_name": "v=lpkL0Y1MhA8__#1_label_B4-0-0.wav",
+        "response": "Fighting, Shooting, Riot/Robbery, Accident."
+    },
+    {
+        "file_name": "v=m5Ya6z6qroo__#1_label_B4-0-0.wav",
+        "response": "The audio contains sounds of fighting, shooting, explosion, riot/robbery, accident, and screaming. Therefore, the output is ['B1:Fighting', 'B2:Shooting', 'B4:Explosion', 'B5:Riot/Robbery', 'B6:Accident', 'G:Screaming']."
+    },
+    {
+        "file_name": "v=m5zK-tzYCQM__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and shouting. It sounds like they are celebrating or cheering on a team. There is also a violin playing in the background. It is difficult to determine the specific nature of the event or activity based on the audio alone."
+    },
+    {
+        "file_name": "v=m8EkFsaGPzU__#1_label_B4-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=nLAapCIlr-o__#00-07-22_00-08-19_label_B6-0-0.wav",
+        "response": "There are violent events detected in the audio: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "v=nLAapCIlr-o__#00-08-35_00-10-25_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming, which could indicate a violent event. Other sounds such as sirens and music could also suggest a violent event. It is not possible to determine the specific nature of the event without further information."
+    },
+    {
+        "file_name": "v=nLAapCIlr-o__#00-11-00_00-12-45_label_B6-0-0.wav",
+        "response": "The audio contains violent events. [B1:Fighting, B2:Shooting, B4:Explosion, B5:Riot/Robbery, B6:Accident, G:Screaming]."
+    },
+    {
+        "file_name": "v=nLAapCIlr-o__#00-16-10_00-18-09_label_B6-0-0.wav",
+        "response": "There are violent events detected in the audio: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "v=ntaXjnpusxM__#1_label_G-0-0.wav",
+        "response": "The audio contains a siren, explosion, and shouting, which may indicate a violent event such as a shooting, riot, or robbery. The exact nature of the event cannot be determined based on the audio alone."
+    },
+    {
+        "file_name": "v=oipd63DGadU__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=osjdmjNJUdg__#1_label_B1-0-0.wav",
+        "response": "The audio contains violent events: B1: Fighting, B2: Shooting."
+    },
+    {
+        "file_name": "v=ovQ1VTJ_IUI__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=p7kvQ4OpDgU__#1_label_B4-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "v=pFamvR9CpYw__#00-00-00_00-06-36_label_B4-0-0.wav",
+        "response": "The following is a Cairo Seven Eyewitness News special presentation. They are unforgettable, perhaps unforgivable images. As the world watches, demonstrators determine to disrupt the World Trade Organization. Smash windows. Tangle with police. The sound of anarchy. The smell of tear gas. It is incredible."
+    },
+    {
+        "file_name": "v=pFamvR9CpYw__#00-06-36_00-15-20_label_B4-0-0.wav",
+        "response": "The audio contains sounds of a crowd, police officers, and violence. It sounds like a riot or a protest. There are also sounds of pepper spray and gunshots. It is difficult to determine the exact nature of the event based on the audio alone, but it appears to be a violent and chaotic situation."
+    },
+    {
+        "file_name": "v=pHZ9gOfmY_k__#1_label_B4-0-0.wav",
+        "response": "The audio is of a crowd watching a fireworks display."
+    },
+    {
+        "file_name": "v=pL2HjXvWuPc__#1_label_B1-0-0.wav",
+        "response": "This is a very fast-tempo track with lots of energy. The main melody is a loud guitar riff, but there are also many other instruments, including drums, bass, and horns. The mood is energetic and upbeat."
+    },
+    {
+        "file_name": "v=pMtu7fOHdII__#1_label_B1-0-0.wav",
+        "response": "The audio is of a fight in a gymnasium. There is the sound of footsteps, thumping, and people shouting. There is also the sound of a crowd cheering and jeering. There is a loud crash and a scream. It is difficult to determine the exact nature of the violent events in the audio without more context."
+    },
+    {
+        "file_name": "v=q_DhkdHGXos__#1_label_B1-0-0.wav",
+        "response": "The audio is of a protest, with people shouting and chanting. It sounds like a large crowd is gathered and they are angry or passionate about something. There are also drums being played in the background. It is difficult to determine the specific nature of the protest based on the audio alone, but it sounds like it may be related to social justice or political issues."
+    },
+    {
+        "file_name": "v=qmsQ-obL1Z4__#00-03-26_00-04-04_label_B6-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "v=qqsd-cZr01k__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "The audio contains a song playing and a car engine starting. It sounds like the song is playing in the background while someone is speaking in the foreground. It is difficult to make out what they are saying, but it sounds like they are speaking Spanish. The car engine starts and the sound of tires screeching can be heard. It is not clear what is happening in this audio."
+    },
+    {
+        "file_name": "v=qqsd-cZr01k__#00-06-10_00-07-19_label_B6-0-0.wav",
+        "response": "The audio contains sounds of a car crash, people screaming, and an explosion. It sounds like a violent event has occurred."
+    },
+    {
+        "file_name": "v=qrKfaX1lCUM__#1_label_G-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "v=qyTGi0N4OVg__#1_label_G-0-0.wav",
+        "response": "The audio contains a loud siren, followed by a short horn sound and then a loud explosion sound. It is difficult to determine the exact nature of the event based on this recording alone, but it sounds like it may be a security or emergency situation."
+    },
+    {
+        "file_name": "v=rAlZRFZTwxM__#00-03-13_00-07-08_label_G-0-0.wav",
+        "response": "This audio contains someone laughing, someone saying \"oh wow\", and someone saying \"you can see the deck cord just annihilation my spy\". It does not contain any violent events."
+    },
+    {
+        "file_name": "v=rJz4NXm6vis__#1_label_B4-0-0.wav",
+        "response": "The audio contains the sound of a crowd running and cheering, as well as the sound of a drum beat and a violin playing. It is difficult to determine the specific context of the audio, as it is not clear what is causing the crowd to run and cheer. It is possible that the audio is from a sporting event, a music festival, or a protest. It is also possible that the audio is from a movie or video game."
+    },
+    {
+        "file_name": "v=rKpXqwE2rg8__#00-01-57_00-03-06_label_B4-0-0.wav",
+        "response": "The audio is of a crowd cheering and shouting. It sounds like they are celebrating or watching a game. There is no violence or other negative behavior heard in the audio."
+    },
+    {
+        "file_name": "v=rXWOpZ7W2fA__#1_label_B1-0-0.wav",
+        "response": "This is a royalty free music track made with synthesizers, electric guitars, bass and drums. It is perfect for a trailer, an intro, a game, a film, a commercial, a video, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a radio, a youtube video, a video game, a slideshow, a documentary, a website, a social media, a vlog, a music video, a business, a science, a technology, a presentation, a podcast, a tv show, a"
+    },
+    {
+        "file_name": "v=sE-DC2trBkI__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming."
+    },
+    {
+        "file_name": "v=sE-DC2trBkI__#00-03-00_00-04-09_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming and gunshots. It also contains the sound of a car engine and the sound of something falling. It is difficult to determine the exact nature of the violent event based on the audio alone, but it could be a shooting or an accident."
+    },
+    {
+        "file_name": "v=sE-DC2trBkI__#00-09-00_00-10-05_label_B6-0-0.wav",
+        "response": "This audio contains violent events. The audio contains a loud scream, followed by gunshots, explosions, and sirens. It is likely that this is an emergency situation, such as a riot, robbery, or accident."
+    },
+    {
+        "file_name": "v=sbEHU4GskX4__#1_label_B1-0-0.wav",
+        "response": "No violent events are detected in the audio."
+    },
+    {
+        "file_name": "v=tP19WuyY3IY__#00-00-00_00-00-51_label_B6-0-0.wav",
+        "response": "The audio contains sounds of a car crash, followed by someone screaming and then a car engine starting. It is possible that there was an accident or a fight that led to the car crash, and the person screaming is someone who was involved or witnessed the event. The car engine starting could indicate that someone is trying to leave the scene of the accident or fight. It is important to note that the audio quality is poor and it is difficult to determine the exact nature of the event."
+    },
+    {
+        "file_name": "v=tP19WuyY3IY__#00-06-10_00-07-51_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=tT-SrQC6Ddw__#00-04-00_00-05-15_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=tivXK3PGByk__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=tv0rI-5ycBU__#1_label_B4-0-0.wav",
+        "response": "The audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    },
+    {
+        "file_name": "v=u0Tnw01PNxc__#1_label_B4-0-0.wav",
+        "response": "The violent events detected in the audio are: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery."
+    },
+    {
+        "file_name": "v=u5SF4SlqNDQ__#00-00-00_00-01-00_label_G-0-0.wav",
+        "response": "The audio contains violent events. The B1 code \"Fighting\" is detected."
+    },
+    {
+        "file_name": "v=u5SF4SlqNDQ__#00-02-39_00-03-41_label_G-0-0.wav",
+        "response": "The audio is of a fireworks factory explosion in Mexico. There is amateur footage of fireworks igniting and flattening a fireworks market in Mexico City on Tuesday, reportedly killing at least 31 people and injuring 70. The San Pabloito market, which sits on the northern outskirts of the city, was engulfed in fire back in 2005."
+    },
+    {
+        "file_name": "v=uBXprlsmd18__#00-03-00_00-04-09_label_B6-0-0.wav",
+        "response": "The audio contains a low rumbling sound, which could be interpreted as a plane taking off or landing."
+    },
+    {
+        "file_name": "v=uBXprlsmd18__#00-06-10_00-07-19_label_B6-0-0.wav",
+        "response": "The audio contains a song that is being sung in a distorted and chaotic manner. It sounds like the song is being sung by a group of people and the vocals are being mixed with other sounds such as car honking, explosion and screams. It is difficult to make out the lyrics of the song due to the distorted and chaotic nature of the recording. It is possible that the song is being sung in a public place such as a bus or train station, where there is a lot of background noise."
+    },
+    {
+        "file_name": "v=uQY15O3LKI0__#1_label_B6-0-0.wav",
+        "response": "The audio is of a movie soundtrack. It starts with a dramatic piano playing and then goes into a string section. The sound of a bomb going off can be heard, followed by a crash. The sound of people screaming can be heard. The soundtrack ends with a string section playing."
+    },
+    {
+        "file_name": "v=uprb6aBzymw__#00-03-03_00-05-13_label_B4-0-0.wav",
+        "response": "The audio contains sounds of people shouting and cheering. It sounds like a celebratory atmosphere."
+    },
+    {
+        "file_name": "v=utQ5AvXtNLA__#1_label_B4-0-0.wav",
+        "response": "The violent event detected in the audio is a crowd chant."
+    },
+    {
+        "file_name": "v=v-Plzx73K68__#1_label_B4-0-0.wav",
+        "response": "The audio contains people screaming and a man speaking in the background. It also contains a beep sound. It is difficult to determine the nature of the event based on this audio alone."
+    },
+    {
+        "file_name": "v=v_LxqgpRouM__#1_label_G-0-0.wav",
+        "response": "The audio contains sounds of wind, voices, and explosions. It sounds like a battlefield or a war zone."
+    },
+    {
+        "file_name": "v=vaSOMEIe1Bg__#1_label_G-0-0.wav",
+        "response": "The audio is of an airplane flying overhead."
+    },
+    {
+        "file_name": "v=vhACO_m5pH0__#00-09-42_00-10-40_label_B6-0-0.wav",
+        "response": "The audio is of a taxi doorbell ringing and someone answering the door. There is a car alarm blaring in the background."
+    },
+    {
+        "file_name": "v=vhACO_m5pH0__#00-10-42_00-11-40_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=vhACO_m5pH0__#00-14-42_00-15-40_label_B6-0-0.wav",
+        "response": "The lyrics are \"Driving on the motorway with a manual gearstick The wind is howling through the trees I'm feeling like a king on my throne\"."
+    },
+    {
+        "file_name": "v=vhACO_m5pH0__#00-17-42_00-18-40_label_B6-0-0.wav",
+        "response": "The audio contains someone shouting and a car alarm going off. It also contains a siren and a woman singing. It sounds like a fight might be taking place."
+    },
+    {
+        "file_name": "v=vhACO_m5pH0__#00-20-42_00-22-40_label_B6-0-0.wav",
+        "response": "The audio contains a car crash, people screaming, and music playing. It sounds like it may have happened in a parking lot or street."
+    },
+    {
+        "file_name": "v=vv-MFJPi4Qs__#1_label_G-0-0.wav",
+        "response": "The audio contains someone speaking on a radio with a lot of static and interference. It sounds like they are communicating with someone about a vehicle that is on the move. There is a sense of urgency in their voice."
+    },
+    {
+        "file_name": "v=w16YmhAZ1_Y__#1_label_G-0-0.wav",
+        "response": "The audio contains gunshots, explosions, shouting, and footsteps. It sounds like a violent event is occurring."
+    },
+    {
+        "file_name": "v=w2NgAYJHnS0__#1_label_G-0-0.wav",
+        "response": "The audio is of a loud explosion."
+    },
+    {
+        "file_name": "v=wG-2t0M8CPc__#1_label_B1-0-0.wav",
+        "response": "There are no violent events in the audio."
+    },
+    {
+        "file_name": "v=wPkBaI6vOv0__#00-00-00_00-01-00_label_G-0-0.wav",
+        "response": "The audio contains someone screaming and a voice speaking in a foreign language, followed by an explosion sound and someone shouting. It sounds like a violent event might have occurred."
+    },
+    {
+        "file_name": "v=wVey5JDRf_g__#00-00-00_00-01-20_label_B6-0-0.wav",
+        "response": "The audio is of a car crash and aftermath. There are sounds of skidding, metal crunching, and people screaming. The radio is also playing in the background, with a voiceover warning of a car crash and instructing people to stay away from the area. It sounds like a very chaotic and dangerous situation."
+    },
+    {
+        "file_name": "v=wVey5JDRf_g__#00-01-30_00-02-41_label_B6-0-0.wav",
+        "response": "The audio contains sounds of cars driving, metal being crushed, and a woman singing. It also contains violent sounds such as gunshots and explosions. Therefore, it is possible that violent events are occurring in the audio."
+    },
+    {
+        "file_name": "v=wVey5JDRf_g__#00-04-09_00-05-06_label_B6-0-0.wav",
+        "response": "The audio contains violent events: fighting, shooting, explosion, riot/robbery, accident, and screaming."
+    },
+    {
+        "file_name": "v=waIS8TaJxts__#00-00-00_00-00-51_label_B6-0-0.wav",
+        "response": "The audio contains sounds of a car crash, followed by people screaming and running. It also contains gunshots and explosions."
+    },
+    {
+        "file_name": "v=waIS8TaJxts__#00-01-30_00-02-45_label_B6-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=waIS8TaJxts__#00-05-50_00-06-20_label_B6-0-0.wav",
+        "response": "This audio contains sounds of a car crash, followed by a man screaming. It also contains music playing in the background. It is possible that this audio is from a movie or a video game."
+    },
+    {
+        "file_name": "v=waIS8TaJxts__#00-07-40_00-08-50_label_B6-0-0.wav",
+        "response": "Based on the voice, it sounds like this is a song. The lyrics are \"I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f**k I don't give a f"
+    },
+    {
+        "file_name": "v=waIS8TaJxts__#00-09-00_00-10-45_label_B6-0-0.wav",
+        "response": "This is a music track in the style of instrumental hip-hop, with a beat that is created by drums and bass. The song has a relaxed and chilled out vibe, with a cool and relaxed atmosphere. The track is ideal for use in a wide variety of media, including film, television, advertising, and video games."
+    },
+    {
+        "file_name": "v=wnd3IYH7x1o__#1_label_G-0-0.wav",
+        "response": "The audio is of a war zone with explosions and gunfire."
+    },
+    {
+        "file_name": "v=xbPWQKZspfU__#1_label_B1-0-0.wav",
+        "response": "There are no violent events detected in the audio."
+    },
+    {
+        "file_name": "v=xe4ee56aHSg__#1_label_G-0-0.wav",
+        "response": "The audio contains someone screaming."
+    },
+    {
+        "file_name": "v=y1z12D5bx7c__#1_label_B4-0-0.wav",
+        "response": "The audio is of a group of people playing a game. There is the sound of a ball bouncing and people shouting. It sounds like a game being played in a park or outdoor area."
+    },
+    {
+        "file_name": "v=yDqThVpu1AM__#1_label_B4-0-0.wav",
+        "response": "The audio is of a protest or demonstration with people shouting and chanting. There are also sounds of firecrackers and sticks being thrown. It is difficult to determine the specific nature of the event or if there are any violent events occurring based on the audio alone."
+    },
+    {
+        "file_name": "v=yrpZJ8Vr3aA__#1_label_B1-0-0.wav",
+        "response": "The audio is of a basketball game with crowd noise, whistle blowing, and commentary. There is a fight breaking out in the crowd, which is indicated by the sound of people screaming and the whistle blowing. There is also a loud explosion sound, which could be a firework or a gun shot. It is not clear from the audio whether there is any physical violence or injury."
+    },
+    {
+        "file_name": "v=yvnj5VIDsNI__#1_label_B4-0-0.wav",
+        "response": "The audio contains a woman speaking, in a Russian language, over a background of sirens and crowd noises. She says, \"The only problem is that this video is not from Russia. Fox News channel aired a video.\" The audio is of poor quality and it is difficult to make out the exact content of the woman's speech. However, it seems that she is criticizing the media for not reporting accurately on events in Russia."
+    },
+    {
+        "file_name": "v=yy-KIWDcBr4__#00-08-35_00-10-25_label_B6-0-0.wav",
+        "response": "The audio contains someone screaming and a car crash. Therefore, the possible violent events in the audio are B5: Riot/Robbery and B6: Accident."
+    },
+    {
+        "file_name": "v=yy-KIWDcBr4__#00-16-10_00-17-19_label_B6-0-0.wav",
+        "response": "The audio contains a person speaking, followed by a car crash, and then a car crash sound effect. It is difficult to determine the specific violent events that are occurring based on the audio alone."
+    },
+    {
+        "file_name": "v=zI0q5UDP47g__#1_label_B4-0-0.wav",
+        "response": "The audio contains a crowd noise, which suggests that it might be recorded in a public place or a gathering. The sound of people talking and laughing can be heard, as well as the sound of footsteps and the occasional shout. It is difficult to determine the specific nature of the event or gathering based on the audio alone."
+    },
+    {
+        "file_name": "v=zQbnQBCTSiA__#1_label_B1-0-0.wav",
+        "response": "The audio contains violent events, including fighting, shooting, explosion, and riot/robbery. Therefore, the output is ['B1:Fighting', 'B2:Shooting', 'B4:Explosion', 'B5:Riot/Robbery']."
+    },
+    {
+        "file_name": "v=zoIn2hOrUIM__#00-01-00_00-02-45_label_B6-0-0.wav",
+        "response": "The audio contains sounds of metal falling, tires screeching, and a man screaming. It sounds like an accident or a violent event has occurred."
+    },
+    {
+        "file_name": "v=zoIn2hOrUIM__#00-06-10_00-07-19_label_B6-0-0.wav",
+        "response": "The audio contains someone speaking in a foreign language, which makes it difficult to determine the exact content of the conversation. However, it sounds like someone is speaking in a foreign language and then a woman's voice can be heard saying \"that's right\" or \"that's correct\". It is possible that the woman is giving instructions or confirming something to the person speaking in the foreign language."
+    },
+    {
+        "file_name": "wangted.2008__#0-22-55_0-23-40_label_B2-0-0.wav",
+        "response": "The audio contains sounds of running, heartbeat, and gunshots. It also contains a scream. It is not clear if there are any violent events occurring in the audio."
+    },
+    {
+        "file_name": "wangted.2008__#0-45-25_0-47-01_label_B1-0-0.wav",
+        "response": "The audio contains someone shouting and fighting, which sounds violent. Therefore, the output is [B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident]."
+    },
+    {
+        "file_name": "wangted.2008__#0-48-30_0-49-00_label_B2-0-0.wav",
+        "response": "This audio contains violent events: B1: Fighting, B2: Shooting, B4: Explosion, B5: Riot/Robbery, B6: Accident."
+    }
+]

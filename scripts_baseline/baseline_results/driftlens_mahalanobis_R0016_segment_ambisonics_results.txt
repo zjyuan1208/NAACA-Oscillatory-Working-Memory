@@ -1,0 +1,19 @@
+DriftLens Mahalanobis Results
+================================
+
+Mode: Mahalanobis, Threshold percentile: 0.990
+Window: 4.0s, stride: 1.0s
+Baseline seconds: 30.0s -> baseline windows: 27
+PCA n_pc: 32, reg_eps: 0.0001
+Threshold: 4.404441
+Total windows: 57
+Detections (filtered): 6
+
+Change Timestamps:
+--------------------
+1. 9.0s - 13.0s (score=4.594984 > thr=4.404441)
+2. 30.0s - 34.0s (score=4.503398 > thr=4.404441)
+3. 36.0s - 40.0s (score=5.919702 > thr=4.404441)
+4. 42.0s - 46.0s (score=5.006458 > thr=4.404441)
+5. 48.0s - 52.0s (score=13.794146 > thr=4.404441)
+6. 56.0s - 60.0s (score=5.833030 > thr=4.404441)

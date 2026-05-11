@@ -1,0 +1,31 @@
+Corrected MCD-DD Results
+========================================
+
+Basic Statistics:
+Total detections: 8
+Processing time: 0.06s
+
+Window Parameters:
+Audio length: 26 features
+Sliding window size: 6 features
+Sliding stride: 1 features
+Sub-window number: 3
+Actual sub-window size: 2 features
+
+Detection Statistics:
+Average confidence: 1.2715
+Max confidence: 8.4356
+Average threshold: 0.0125
+
+Detected Changes:
+--------------------
+Timestamps: 12.0s 20.0s 26.0s 32.0s 36.0s 40.0s 44.0s 48.0s
+
+1. 12.0s-14.0s (conf: 0.214, dist: 0.0031)
+2. 20.0s-22.0s (conf: 0.041, dist: 0.0039)
+3. 26.0s-28.0s (conf: 0.248, dist: 0.0061)
+4. 32.0s-34.0s (conf: 0.180, dist: 0.0058)
+5. 36.0s-38.0s (conf: 0.968, dist: 0.0086)
+6. 40.0s-42.0s (conf: 0.051, dist: 0.0423)
+7. 44.0s-46.0s (conf: 4.896, dist: 0.0715)
+8. 48.0s-50.0s (conf: 0.865, dist: 0.0843)

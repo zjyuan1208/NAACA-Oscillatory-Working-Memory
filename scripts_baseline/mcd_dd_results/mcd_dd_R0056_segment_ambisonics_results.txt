@@ -1,0 +1,48 @@
+MCD-DD Audio Concept Drift Detection Results
+==================================================
+
+CONFIGURATION:
+Audio file: /home/zhyuan/Desktop/Qwen-Audio/ambisonics_audio/R0056_segment_ambisonics.wav
+Window length: 4.0s
+Sub-window length: 0.4s
+Sliding stride: 1.0s
+Feature stride: 1.0s
+Percentile threshold: 0.95
+Min interval filter: 3.0s
+Confidence threshold: 0.3
+
+DETECTION STATISTICS:
+Audio length: 60.0s
+Processing time: 0.78s
+Total detections (raw): 55
+Total detections (filtered): 19
+Windows processed: 55
+Detection rate: 0.345
+Average confidence: 18916234.1437
+Maximum confidence: 41660487.6518
+Final threshold: 0.0000
+
+DETECTED CONCEPT DRIFTS:
+Timestamps: 2.0s 5.0s 8.0s 11.0s 14.0s 17.0s 20.0s 23.0s 26.0s 29.0s 32.0s 35.0s 38.0s 41.0s 44.0s 47.0s 50.0s 53.0s 56.0s
+
+DETAILED CHANGE INFORMATION:
+------------------------------
+ 1. Time:    2.0s | Confidence: 787377.264 | Distance: 0.0079 | Threshold: 0.0000
+ 2. Time:    5.0s | Confidence: 4689862.579 | Distance: 0.0469 | Threshold: 0.0000
+ 3. Time:    8.0s | Confidence: 1637962.647 | Distance: 0.0164 | Threshold: 0.0000
+ 4. Time:   11.0s | Confidence: 15438331.664 | Distance: 0.1544 | Threshold: 0.0000
+ 5. Time:   14.0s | Confidence: 21067725.122 | Distance: 0.2107 | Threshold: 0.0000
+ 6. Time:   17.0s | Confidence: 16091276.705 | Distance: 0.1609 | Threshold: 0.0000
+ 7. Time:   20.0s | Confidence: 14139756.560 | Distance: 0.1414 | Threshold: 0.0000
+ 8. Time:   23.0s | Confidence: 7356647.402 | Distance: 0.0736 | Threshold: 0.0000
+ 9. Time:   26.0s | Confidence: 16721154.749 | Distance: 0.1672 | Threshold: 0.0000
+10. Time:   29.0s | Confidence: 11606325.209 | Distance: 0.1161 | Threshold: 0.0000
+11. Time:   32.0s | Confidence: 21044313.908 | Distance: 0.2104 | Threshold: 0.0000
+12. Time:   35.0s | Confidence: 26701357.961 | Distance: 0.2670 | Threshold: 0.0000
+13. Time:   38.0s | Confidence: 32205426.693 | Distance: 0.3221 | Threshold: 0.0000
+14. Time:   41.0s | Confidence: 30039083.958 | Distance: 0.3004 | Threshold: 0.0000
+15. Time:   44.0s | Confidence: 33440300.822 | Distance: 0.3344 | Threshold: 0.0000
+16. Time:   47.0s | Confidence: 16564697.027 | Distance: 0.1656 | Threshold: 0.0000
+17. Time:   50.0s | Confidence: 27278691.530 | Distance: 0.2728 | Threshold: 0.0000
+18. Time:   53.0s | Confidence: 20937669.277 | Distance: 0.2094 | Threshold: 0.0000
+19. Time:   56.0s | Confidence: 41660487.652 | Distance: 0.4166 | Threshold: 0.0000

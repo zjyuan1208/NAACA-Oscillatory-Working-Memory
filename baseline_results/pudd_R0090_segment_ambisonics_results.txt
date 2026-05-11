@@ -1,0 +1,19 @@
+PUDD Baseline Results
+==============================
+
+Basic Statistics:
+Total detections: 1
+Total windows: 58
+Processing time: 3.07s
+Audio length: 58 timesteps
+Window size: 1
+Slide size: 1
+Average confidence: 2.5176
+Max confidence: 100.0000
+Average pvalue: 0.414368
+
+Change Timestamps: 49.0s
+
+Detailed Changes:
+--------------------
+1. 49.0s-50.0s (pvalue: 0.000000)

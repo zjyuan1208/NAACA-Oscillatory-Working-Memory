@@ -1,0 +1,19 @@
+DriftLens Probability+EMA Results
+====================================
+
+Metric: JS, Percentile: 0.995
+Window: 4.0s, stride: 1.0s
+Baseline seconds: 10.0s -> windows: 7
+EMA alpha: 0.0005, only_if_no_drift=True, warmup=10
+Temp scale: 1.00
+Trigger: n_consecutive=2, margin=1.10, peak_neighbor=1
+Min change interval: 6.0s
+Threshold: 0.120089
+Total windows: 58
+Detections (filtered): 3
+
+Change Timestamps:
+--------------------
+1. 17.0s - 21.0s (score=0.144036 > thr=0.120089)
+2. 47.0s - 51.0s (score=0.307281 > thr=0.120089)
+3. 53.0s - 57.0s (score=0.606643 > thr=0.120089)

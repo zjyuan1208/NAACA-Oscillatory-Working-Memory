@@ -1,0 +1,39 @@
+DriftLens Working Version Results
+========================================
+
+Adaptive Parameters Used:
+batch_n_pc: 19
+per_label_n_pc: 7
+window_size: 11
+n_threshold_samples: 100
+percentile: 80.0
+
+Basic Statistics:
+Total detections: 10
+Total windows: 10
+Processing time: 0.29s
+Audio length: 30 timesteps
+Baseline length: 59 timesteps
+Threshold length: 29 timesteps
+Window size: 11
+Slide size: 2
+Average confidence: 6.1576
+Max confidence: 10.0091
+Average distance: 0.1985
+Successful detections: 10
+Failed detections: 0
+
+Change Timestamps: 0.0s 1.0s 2.0s 3.0s 4.0s 5.0s 6.0s 7.0s 8.0s 9.0s
+
+Detailed Changes:
+--------------------
+1. 0.0s-5.5s (conf: 2.419)
+2. 1.0s-6.5s (conf: 1.770)
+3. 2.0s-7.5s (conf: 2.757)
+4. 3.0s-8.5s (conf: 3.507)
+5. 4.0s-9.5s (conf: 10.009)
+6. 5.0s-10.5s (conf: 9.187)
+7. 6.0s-11.5s (conf: 9.187)
+8. 7.0s-12.5s (conf: 9.187)
+9. 8.0s-13.5s (conf: 7.897)
+10. 9.0s-14.5s (conf: 5.657)

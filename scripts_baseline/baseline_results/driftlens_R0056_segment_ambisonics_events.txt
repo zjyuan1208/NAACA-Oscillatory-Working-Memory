@@ -1,0 +1,26 @@
+DriftLens Baseline Results
+==============================
+
+Basic Statistics:
+Total detections: 5
+Total windows: 57
+Baseline windows: 27
+Window length: 4.0s
+Stride length: 1.0s
+Baseline seconds: 30.0s
+Detection threshold: 4.35120
+Threshold percentile: 0.990
+PCA components: 32
+Regularization eps: 0.0001
+
+Change Timestamps: 3.0s 39.0s 45.0s 51.0s 57.0s
+
+Detailed Changes:
+--------------------
+1. 3.0s (window: 1.0s-5.0s, score: 4.575)
+2. 39.0s (window: 37.0s-41.0s, score: 5.586)
+3. 45.0s (window: 43.0s-47.0s, score: 5.609)
+4. 51.0s (window: 49.0s-53.0s, score: 37.481)
+5. 57.0s (window: 55.0s-59.0s, score: 37.353)
+
+Note: 12 additional detections were filtered out due to min_change_interval=6.0s

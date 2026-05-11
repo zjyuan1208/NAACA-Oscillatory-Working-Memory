@@ -105,3 +105,18 @@ This repository builds on Qwen-Audio components for audio-language reasoning and
 ## License
 
 The NAACA repository is released under the MIT License. Qwen-Audio-derived components retain their original Tongyi Qianwen license; see `LICENSE_QWEN` for those terms.
+
+## NAACA Audio Attention Code
+
+This repository also includes the audio-attention and BioOSS working-memory code used for the NAACA audio experiments. The added components include:
+
+- `biooss_fdtd.py` and `biooss_pipeline.py`: BioOSS/FDTD dynamics and online audio-attention processing.
+- `run.py` and `run_redesigned.py`: audio change-detection entry points.
+- `audio_attention_utils.py`: online thresholding, detection post-processing, and metric helpers for the audio-attention pipeline.
+- `baselines/`: DriftLens, MCD-DD, PUDD, adaptive classical, and K-Means baselines.
+- `datasets/`: LU-AVS/XD-style dataset preparation and dataloading utilities.
+- `scripts_LU/`, `scripts_baseline/`, and `script/`: reproducibility scripts.
+- `plot/`: paper plotting scripts and lightweight key result artifacts.
+
+Large raw audio/video datasets, internal-state arrays, checkpoints, and generated visualization folders are excluded from Git.
+

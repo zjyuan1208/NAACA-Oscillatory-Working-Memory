@@ -14,3 +14,7 @@ scikit-learn
 pandas
 openpyxl
 tqdm
+torchaudio
+opencv-python
+seaborn
+Pillow

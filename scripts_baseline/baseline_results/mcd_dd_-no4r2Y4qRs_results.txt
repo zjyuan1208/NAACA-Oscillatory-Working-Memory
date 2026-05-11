@@ -1,0 +1,15 @@
+MCD-DD Baseline Results
+==============================
+
+Basic Statistics:
+Total detections: 0
+Total windows: 0
+Processing time: 0.00s
+Audio length: 13 timesteps
+Window size: 30
+Slide size: 10
+Average confidence: 0.0000
+Max confidence: 0.0000
+Average threshold: 0.0000
+
+No changes detected.

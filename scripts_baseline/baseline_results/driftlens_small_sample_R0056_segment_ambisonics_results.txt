@@ -1,0 +1,22 @@
+DriftLens Small Sample Optimized Results
+=============================================
+
+Basic Statistics:
+Total detections: 0
+Total windows: 0
+Processing time: 0.00s
+Audio length: 0 timesteps
+Baseline length: 0 timesteps
+Threshold length: 0 timesteps
+Window size: 0
+Slide size: 2
+Average confidence: 0.0000
+Max confidence: 0.0000
+Average distance: 0.0000
+Baseline time: 0.00s
+Threshold time: 0.00s
+Detection time: 0.00s
+Successful detections: 0
+Failed detections: 0
+
+No changes detected.
