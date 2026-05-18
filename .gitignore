@@ -66,6 +66,9 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 .vscode/
+.env
+.env.*
+*.secret
 
 # Temporary outputs
 temp_*
@@ -97,4 +100,3 @@ plot/visualizations/
 synthetic_test_results/
 scripts_LU/batch_results/
 scripts_baseline/*_results/*.npz
-
